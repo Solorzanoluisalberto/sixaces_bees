@@ -63,7 +63,7 @@ am4core.ready(function () {
     minRange.label.text = "1000 lbs or lest";
     var maxRange = heatLegend.valueAxis.axisRanges.create();
     maxRange.value = heatLegend.maxValue;
-    maxRange.label.text = "40,000 + lbs";
+    maxRange.label.text = "40,000 + Mlbs";
 
     // Blank out internal heat legend value axis labels
     heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
@@ -72,10 +72,15 @@ am4core.ready(function () {
 
     // Configure series tooltip
     var polygonTemplate = polygonSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}: {value}";
+    //polygonTemplate.tooltipText = "{name}:\n{max_h_prod_cny} \n {yield_cny} ln {value}";
+    polygonTemplate.tooltipHTML = '<b>{name}</b><br>colonies (1,000): {max_h_prod_cny} <br>Yield p/colony (pounds): {yield_cny} <br>Production (1,000 pounds): {value}<br>Soure:<a href="https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0320.pdf" target="_blank"> nass.usda.gov</a>';
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
-
+    // Set up tooltips
+    polygonSeries.calculateVisualCenter = true;
+    polygonTemplate.tooltipPosition = "fixed";
+    polygonSeries.tooltip.label.interactionsEnabled = true;
+    polygonSeries.tooltip.keepTargetHover = true;
     // Create hover state and set alternative fill color
     var hs = polygonTemplate.states.create("hover");
     hs.properties.fill = am4core.color("#b38600");
