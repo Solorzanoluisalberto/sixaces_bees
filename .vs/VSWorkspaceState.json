@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\static",
-    "\\static\\data",
+    "\\static\\js",
     "\\static\\json"
   ],
-  "SelectedNode": "\\static\\js",
+  "SelectedNode": "\\static\\js\\drillMapColonies.js",
   "PreviewInSolutionExplorer": false
 }

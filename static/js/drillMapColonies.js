@@ -72,7 +72,7 @@ am4core.ready(function () {
 
     // Configure series tooltip
     var polygonTemplate = polygonSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}: {value} (1,000 lbs)";
+    polygonTemplate.tooltipText = "{name}: {value}";
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
 

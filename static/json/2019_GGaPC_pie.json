@@ -1,6 +1,5 @@
-{
-    "query_results": [
-      {
+var data2 = [
+        {
         "County": "Appling",
         "Carpenter": 127,
         "Bumble": 230,
@@ -2011,4 +2010,3 @@
         "Lon": -83.874
       }
     ]
-  }
