@@ -1,4 +1,4 @@
-st,ag_dist,cnty,num_owp,cv,id,lat,lon
+st,ag_dist,cnty,num_owp,cv,id,Lat,Lon
 Alabama,BLACK BELT,Autauga,8,99.95,AL,32.536382,-86.64449
 Alabama,BLACK BELT,Bullock,2,99.95,AL,32.101759,-85.717261
 Alabama,BLACK BELT,Dallas,7,99.95,AL,32.33354,-87.114356

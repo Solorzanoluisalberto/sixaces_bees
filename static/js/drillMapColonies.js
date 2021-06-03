@@ -1,6 +1,6 @@
 am4core.ready(function () {
 
-     //======================= map with states production values end =============================
+    //======================= map with states production values end =============================
     function am4themes_myTheme(target) {
         if (target instanceof am4core.ColorSet) {
             target.list = [
@@ -12,7 +12,7 @@ am4core.ready(function () {
 
     // Themes begin
     am4core.useTheme(am4themes_myTheme);
-    
+
     //am4core.useTheme(am4themes_animated);
     // Themes end
 
@@ -43,7 +43,7 @@ am4core.ready(function () {
     polygonSeries.data = data1 // read from json production year 2019
 
     // ===== map title =================
-    var title = "Honey production in 2019"
+    var title = "(map) Honey production by State in 2019 (values expressed in 1,000 lbs)\n (circle) Num. of Operations with 5 or more colonies in 2019"
     chart.titles.create().text = title;
     //====================================
 
@@ -60,10 +60,10 @@ am4core.ready(function () {
     // Set up custom heat map legend labels using axis ranges
     var minRange = heatLegend.valueAxis.axisRanges.create();
     minRange.value = heatLegend.minValue;
-    minRange.label.text = "< 100 lbs";
+    minRange.label.text = "1000 lbs or lest";
     var maxRange = heatLegend.valueAxis.axisRanges.create();
     maxRange.value = heatLegend.maxValue;
-    maxRange.label.text = "40,000 lbs";
+    maxRange.label.text = "40,000 + lbs";
 
     // Blank out internal heat legend value axis labels
     heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
@@ -72,7 +72,7 @@ am4core.ready(function () {
 
     // Configure series tooltip
     var polygonTemplate = polygonSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}: {value} (Klbs)";
+    polygonTemplate.tooltipText = "{name}: {value} (1,000 lbs)";
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
 
@@ -108,7 +108,7 @@ am4core.ready(function () {
     homeButton.parent = chart.zoomControl;
     homeButton.insertBefore(chart.zoomControl.plusButton);
 
-     //======================== ===============================
+    //======================== ===============================
     var zoomOut = chart.tooltipContainer.createChild(am4core.ZoomOutButton);
     zoomOut.hide();
     // =========================================================
@@ -129,7 +129,7 @@ am4core.ready(function () {
         usPolygonTemplate.fill = chart.colors.getIndex(1);
         usPolygonTemplate.nonScalingStroke = true;
     }
-// ================ counties polygons End ==================
+    // ================ counties polygons End ==================
     // =============== circle in map ===================
     // Configure label series
     var labelSeries = chart.series.push(new am4maps.MapImageSeries());
@@ -139,23 +139,25 @@ am4core.ready(function () {
     labelTemplate.fontSize = 14;
     labelTemplate.interactionsEnabled = false;
     labelTemplate.nonScaling = true;
+    labelTemplate.fillOpacity = 0.1;
 
     //var ids = ["US-AZ", "US-TX", "US-AL", "US-CA"];
-    var ids = data1.map(state => state.id); //data from file json production in 2019.csv
+    var ids1 = data1.map(state => state.id); //data from file json production in 2019.csv
 
     // Set up label series to populate
     polygonTemplate.events.on("inited", function () {
         for (var i = 0; i < 40; i++) {
-           // if (ids[i] != "HI") {
-                var polygon = polygonSeries.getPolygonById(ids[i]);
-                if (polygon) {
-                    var label = labelSeries.mapImages.create();
-                    var state = polygon.dataItem.dataContext.id.split("-").pop();
-                    label.latitude = polygon.visualLatitude;
-                    label.longitude = polygon.visualLongitude;
-                    label.children.getIndex(0).text = state + " ";
-                }
-          //  }
+            // if (ids[i] != "HI") {
+            var polygon = polygonSeries.getPolygonById(ids1[i]);
+            if (polygon) {
+                var label = labelSeries.mapImages.create();
+                var state = polygon.dataItem.dataContext.id.split("-").pop();
+                label.latitude = polygon.visualLatitude;
+                label.longitude = polygon.visualLongitude;
+                label.children.getIndex(0).text = state + " ";
+                
+            }
+            //  }
         }
     });
 
@@ -165,7 +167,7 @@ am4core.ready(function () {
     // Loads store data
     function loadStores() {
         var loader = new am4core.DataSource();
-        loader.url = "static/json/2019_GGaPC.json"
+        loader.url = "static/json/honey_owp.json"
         // loader.url = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/TargetStores.json";
 
         loader.events.on("parseended", function (ev) {
@@ -183,12 +185,12 @@ am4core.ready(function () {
         template.horizontalCenter = "middle";
         template.propertyFields.latitude = "lat";
         template.propertyFields.longitude = "long";
-        template.tooltipText = "[bold]{name}:\n{stores} Bees colonies[/]\n[bold] {peso} pound of honey[/]";
-        template.fill = "#ddd" // circle color
+        template.tooltipText = "[bold]{name}:\n{stores} Operation Bees Colony[/]\n[bold]";
+        template.fill = "#000" // circle color
 
         var circle = template.createChild(am4core.Circle);
-        circle.radius = 25;
-        circle.fillOpacity = 0.8;
+        circle.radius = 22;
+        circle.fillOpacity = 0.6;
         //circle.border.color = "#000"
         circle.verticalCenter = "middle";
         circle.horizontalCenter = "middle";
@@ -196,7 +198,7 @@ am4core.ready(function () {
         //console.log(circle)
         var label = template.createChild(am4core.Label);
         label.text = "{stores}";
-        label.fill = am4core.color("#000");
+        label.fill = am4core.color("#fff");
         label.verticalCenter = "middle";
         label.horizontalCenter = "middle";
         label.nonScaling = true;
@@ -222,7 +224,7 @@ am4core.ready(function () {
             // Create actual series if it hasn't been yet created
             if (!regionalSeries[data.target].series) {
                 regionalSeries[data.target].series = createSeries("count");
-                regionalSeries[data.target].series = createSeries("peso");
+               // regionalSeries[data.target].series = createSeries("peso");
                 regionalSeries[data.target].series.data = data.markerData;
             }
 
@@ -242,7 +244,7 @@ am4core.ready(function () {
                     longitude: data.long
                 }, 64, true);
             }
-            //  zoomOut.show();
+              //zoomOut.show();
 
             // Show new targert series
             currentSeries = regionalSeries[data.target].series;
@@ -271,13 +273,13 @@ am4core.ready(function () {
 
             // Get store data
             var store = {
-                state: "GA", // store.MAIL_ST_PROV_C,
+                state: store.ids, // "GA", // store.MAIL_ST_PROV_C,
                 long: am4core.type.toNumber(store.Lon),
                 lat: am4core.type.toNumber(store.Lat),
-                location: store.County,
-                city: store.County,
-                count: am4core.type.toNumber(store.Counts),
-                peso: am4core.type.toNumber(store.Honey)
+                location: store.cnty,
+                city: store.cnty,
+                count: am4core.type.toNumber(store.num_owp)
+                //peso: am4core.type.toNumber(store.Honey)
             };
 
             //console.log(count)
@@ -298,7 +300,7 @@ am4core.ready(function () {
                         lat: statePolygon.visualLatitude,
                         long: statePolygon.visualLongitude,
                         state: store.state,
-                        peso: store.peso,
+                        //peso: store.peso,
                         markerData: []
                     };
                     regionalSeries.US.markerData.push(regionalSeries[store.state]);
@@ -311,7 +313,7 @@ am4core.ready(function () {
             }
             else {
                 regionalSeries[store.state].stores += store.count;
-                regionalSeries[store.state].peso += store.peso;
+                //regionalSeries[store.state].peso += store.peso;
                 regionalSeries[store.state].count += store.count;
             }
 
@@ -326,23 +328,23 @@ am4core.ready(function () {
                     lat: store.lat,
                     long: store.long,
                     state: store.state,
-                    peso: store.peso,
+                    //peso: store.peso,
                     markerData: []
                 };
                 regionalSeries[store.state].markerData.push(regionalSeries[store.city]);
             }
             else {
                 regionalSeries[store.city].stores += store.count;
-                regionalSeries[store.city].peso += store.peso;
-                regionalSeries[store.city].stores += store.count, // 1,
-                regionalSeries[store.city].count += store.count;
+               // regionalSeries[store.city].peso += store.peso;
+               // regionalSeries[store.city].stores += store.count, // 1,
+                    regionalSeries[store.city].count += store.count;
             }
 
             // Process individual store
             regionalSeries[store.city].markerData.push({
                 name: store.location,
                 count: store.count,
-                peso: store.peso,
+                //peso: store.peso,
                 stores: store.count, // 1,
                 lat: store.lat,
                 long: store.long,

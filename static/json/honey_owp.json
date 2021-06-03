@@ -3,7 +3,7 @@
     {
       "st": "Alabama",
       "ag_dist": "BLACK BELT",
-      "County": "Autauga",
+      "cnty": "Autauga",
       "num_owp": 8,
       "cv": 99.95,
       "ids": "AL",
@@ -13,7 +13,7 @@
     {
       "st": "Alabama",
       "ag_dist": "BLACK BELT",
-      "County": "Bullock",
+      "cnty": "Bullock",
       "num_owp": 2,
       "cv": 99.95,
       "ids": "AL",
@@ -1983,7 +1983,7 @@
     {
       "st": "California",
       "ag_dist": "SOUTHERN CALIFORNIA",
-      "cnty": "Riversidse",
+      "cnty": "Riverside",
       "num_owp": 52,
       "cv": 73.2,
       "ids": "CA",
@@ -2543,7 +2543,7 @@
     {
       "st": "Connecticut",
       "ag_dist": "ALL COUNTIES",
-      "cnty": "Midsdlesex",
+      "cnty": "Middlesex",
       "num_owp": 24,
       "cv": 99.95,
       "ids": "CT",
@@ -2621,7 +2621,7 @@
       "Lon": -75.335495
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Alachua",
       "num_owp": 65,
@@ -2631,7 +2631,7 @@
       "Lon": -82.357221
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Bradford",
       "num_owp": 10,
@@ -2641,7 +2641,7 @@
       "Lon": -82.166796
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Citrus",
       "num_owp": 14,
@@ -2651,7 +2651,7 @@
       "Lon": -82.524796
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Clay",
       "num_owp": 19,
@@ -2661,7 +2661,7 @@
       "Lon": -81.858147
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Flagler",
       "num_owp": 1,
@@ -2671,7 +2671,7 @@
       "Lon": -81.286362
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Gilchrist",
       "num_owp": 7,
@@ -2681,7 +2681,7 @@
       "Lon": -82.795801
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Hernando",
       "num_owp": 11,
@@ -2691,7 +2691,7 @@
       "Lon": -82.464835
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Hillsborough",
       "num_owp": 47,
@@ -2701,7 +2701,7 @@
       "Lon": -82.349568
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Lake",
       "num_owp": 50,
@@ -2711,7 +2711,7 @@
       "Lon": -81.712282
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Levy",
       "num_owp": 20,
@@ -2721,7 +2721,7 @@
       "Lon": -82.783483
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Marion",
       "num_owp": 53,
@@ -2731,7 +2731,7 @@
       "Lon": -82.0431
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Orange",
       "num_owp": 36,
@@ -2741,7 +2741,7 @@
       "Lon": -81.323295
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Osceola",
       "num_owp": 26,
@@ -2751,7 +2751,7 @@
       "Lon": -81.139312
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Pasco",
       "num_owp": 36,
@@ -2761,7 +2761,7 @@
       "Lon": -82.455707
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Pinellas",
       "num_owp": 42,
@@ -2771,7 +2771,7 @@
       "Lon": -82.739518
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Polk",
       "num_owp": 72,
@@ -2781,7 +2781,7 @@
       "Lon": -81.692783
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Putnam",
       "num_owp": 10,
@@ -2791,7 +2791,7 @@
       "Lon": -81.740894
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Seminole",
       "num_owp": 25,
@@ -2801,7 +2801,7 @@
       "Lon": -81.13198
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "St. Johns",
       "num_owp": 13,
@@ -2811,7 +2811,7 @@
       "Lon": -81.383914
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Sumter",
       "num_owp": 5,
@@ -2821,7 +2821,7 @@
       "Lon": -82.074715
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Union",
       "num_owp": 11,
@@ -2831,7 +2831,7 @@
       "Lon": -82.366918
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "CENTRAL",
       "cnty": "Volusia",
       "num_owp": 33,
@@ -2841,7 +2841,7 @@
       "Lon": -81.161813
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Baker",
       "num_owp": 12,
@@ -2851,7 +2851,7 @@
       "Lon": -82.302284
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Columbia",
       "num_owp": 7,
@@ -2861,7 +2861,7 @@
       "Lon": -82.623127
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Dixie",
       "num_owp": 4,
@@ -2871,7 +2871,7 @@
       "Lon": -83.195666
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Duval",
       "num_owp": 28,
@@ -2881,7 +2881,7 @@
       "Lon": -81.648113
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Hamilton",
       "num_owp": 8,
@@ -2891,7 +2891,7 @@
       "Lon": -82.951049
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Lafayette",
       "num_owp": 1,
@@ -2901,7 +2901,7 @@
       "Lon": -83.17851
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Madison",
       "num_owp": 4,
@@ -2911,7 +2911,7 @@
       "Lon": -83.470437
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Nassau",
       "num_owp": 14,
@@ -2921,7 +2921,7 @@
       "Lon": -81.764929
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Suwannee",
       "num_owp": 19,
@@ -2931,7 +2931,7 @@
       "Lon": -82.992754
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHEAST",
       "cnty": "Taylor",
       "num_owp": 14,
@@ -2941,7 +2941,7 @@
       "Lon": -83.616417
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Bay",
       "num_owp": 37,
@@ -2951,7 +2951,7 @@
       "Lon": -85.631348
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Calhoun",
       "num_owp": 19,
@@ -2961,7 +2961,7 @@
       "Lon": -85.197916
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Escambia",
       "num_owp": 42,
@@ -2971,7 +2971,7 @@
       "Lon": -87.33904
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Franklin",
       "num_owp": 5,
@@ -2981,7 +2981,7 @@
       "Lon": -84.799174
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Gadsden",
       "num_owp": 26,
@@ -2991,7 +2991,7 @@
       "Lon": -84.612783
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Gulf",
       "num_owp": 7,
@@ -3001,7 +3001,7 @@
       "Lon": -85.256537
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Holmes",
       "num_owp": 11,
@@ -3011,7 +3011,7 @@
       "Lon": -85.812959
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Jackson",
       "num_owp": 38,
@@ -3021,7 +3021,7 @@
       "Lon": -85.210374
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Jefferson",
       "num_owp": 22,
@@ -3031,7 +3031,7 @@
       "Lon": -83.890859
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Leon",
       "num_owp": 20,
@@ -3041,7 +3041,7 @@
       "Lon": -84.2778
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Liberty",
       "num_owp": 21,
@@ -3051,7 +3051,7 @@
       "Lon": -84.868581
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Okaloosa",
       "num_owp": 47,
@@ -3061,7 +3061,7 @@
       "Lon": -86.594194
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Santa Rosa",
       "num_owp": 45,
@@ -3071,7 +3071,7 @@
       "Lon": -87.014255
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Wakulla",
       "num_owp": 17,
@@ -3081,7 +3081,7 @@
       "Lon": -84.375136
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Walton",
       "num_owp": 21,
@@ -3091,7 +3091,7 @@
       "Lon": -86.176614
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "NORTHWEST",
       "cnty": "Washington",
       "num_owp": 26,
@@ -3101,7 +3101,7 @@
       "Lon": -85.662797
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Brevard",
       "num_owp": 22,
@@ -3111,7 +3111,7 @@
       "Lon": -80.700384
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Broward",
       "num_owp": 24,
@@ -3121,7 +3121,7 @@
       "Lon": -80.476658
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Charlotte",
       "num_owp": 11,
@@ -3131,7 +3131,7 @@
       "Lon": -81.940858
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Collier",
       "num_owp": 18,
@@ -3141,7 +3141,7 @@
       "Lon": -81.400884
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Desoto",
       "num_owp": 12,
@@ -3151,7 +3151,7 @@
       "Lon": -81.806253
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Glades",
       "num_owp": 9,
@@ -3161,7 +3161,7 @@
       "Lon": -81.19082
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Hardee",
       "num_owp": 6,
@@ -3171,7 +3171,7 @@
       "Lon": -81.82158
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Hendry",
       "num_owp": 16,
@@ -3181,7 +3181,7 @@
       "Lon": -81.151584
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Highlands",
       "num_owp": 19,
@@ -3191,7 +3191,7 @@
       "Lon": -81.340921
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Indian River",
       "num_owp": 15,
@@ -3201,7 +3201,7 @@
       "Lon": -80.574803
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Lee",
       "num_owp": 38,
@@ -3211,7 +3211,7 @@
       "Lon": -81.89225
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Manatee",
       "num_owp": 26,
@@ -3221,7 +3221,7 @@
       "Lon": -82.365784
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Martin",
       "num_owp": 18,
@@ -3231,7 +3231,7 @@
       "Lon": -80.398211
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Miami-Dade",
       "num_owp": 78,
@@ -3241,7 +3241,7 @@
       "Lon": -80.499045
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Monroe",
       "num_owp": 12,
@@ -3251,7 +3251,7 @@
       "Lon": -81.206777
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Okeechobee",
       "num_owp": 2,
@@ -3261,7 +3261,7 @@
       "Lon": -80.887388
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Palm Beach",
       "num_owp": 47,
@@ -3271,7 +3271,7 @@
       "Lon": -80.448673
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "Sarasota",
       "num_owp": 13,
@@ -3281,7 +3281,7 @@
       "Lon": -82.365835
     },
     {
-      "st": "Floridsa",
+      "st": "Florida",
       "ag_dist": "SOUTHERN",
       "cnty": "St. Lucie",
       "num_owp": 6,
@@ -4833,7 +4833,7 @@
     {
       "st": "Idaho",
       "ag_dist": "EAST",
-      "cnty": "Oneidsa",
+      "cnty": "Oneida",
       "num_owp": 12,
       "cv": 75.4,
       "ids": "ID",
@@ -4993,7 +4993,7 @@
     {
       "st": "Idaho",
       "ag_dist": "SOUTH CENTRAL",
-      "cnty": "Minidsoka",
+      "cnty": "Minidoka",
       "num_owp": 5,
       "cv": 75.4,
       "ids": "ID",
@@ -5643,7 +5643,7 @@
     {
       "st": "Illinois",
       "ag_dist": "NORTHWEST",
-      "cnty": "Whitesidse",
+      "cnty": "Whiteside",
       "num_owp": 10,
       "cv": 82.4,
       "ids": "IL",
@@ -8323,7 +8323,7 @@
     {
       "st": "Kansas",
       "ag_dist": "NORTHWEST",
-      "cnty": "Sheridsan",
+      "cnty": "Sheridan",
       "num_owp": 1,
       "cv": 92,
       "ids": "KS",
@@ -8863,7 +8863,7 @@
     {
       "st": "Kentucky",
       "ag_dist": "CENTRAL",
-      "cnty": "Breckinridsge",
+      "cnty": "Breckinridge",
       "num_owp": 22,
       "cv": 87.9,
       "ids": "KY",
@@ -9793,7 +9793,7 @@
     {
       "st": "Louisiana",
       "ag_dist": "CENTRAL",
-      "cnty": "Rapidses",
+      "cnty": "Rapides",
       "num_owp": 22,
       "cv": 91.5,
       "ids": "LA",
@@ -10723,7 +10723,7 @@
     {
       "st": "Massachusetts",
       "ag_dist": "ALL COUNTIES",
-      "cnty": "Midsdlesex",
+      "cnty": "Middlesex",
       "num_owp": 39,
       "cv": 57.3,
       "ids": "MA",
@@ -10823,7 +10823,7 @@
     {
       "st": "Michigan",
       "ag_dist": "CENTRAL",
-      "cnty": "Midsland",
+      "cnty": "Midland",
       "num_owp": 12,
       "cv": 82.6,
       "ids": "MI",
@@ -13863,7 +13863,7 @@
     {
       "st": "Missouri",
       "ag_dist": "SOUTHEAST",
-      "cnty": "New Madrids",
+      "cnty": "New Madrid",
       "num_owp": 1,
       "cv": 99.5,
       "ids": "MO",
@@ -14943,7 +14943,7 @@
     {
       "st": "Nebraska",
       "ag_dist": "NORTHWEST",
-      "cnty": "Sheridsan",
+      "cnty": "Sheridan",
       "num_owp": 1,
       "cv": 74.6,
       "ids": "NE",
@@ -15423,7 +15423,7 @@
     {
       "st": "New Jersey",
       "ag_dist": "CENTRAL",
-      "cnty": "Midsdlesex",
+      "cnty": "Middlesex",
       "num_owp": 21,
       "cv": 72.8,
       "ids": "NJ",
@@ -15813,7 +15813,7 @@
     {
       "st": "New Mexico",
       "ag_dist": "SOUTHWEST",
-      "cnty": "Hidsalgo",
+      "cnty": "Hidalgo",
       "num_owp": 2,
       "cv": 99.95,
       "ids": "NM",
@@ -15893,7 +15893,7 @@
     {
       "st": "New York",
       "ag_dist": "CENTRAL",
-      "cnty": "Oneidsa",
+      "cnty": "Oneida",
       "num_owp": 36,
       "cv": 79.3,
       "ids": "NY",
@@ -16563,7 +16563,7 @@
     {
       "st": "North Carolina",
       "ag_dist": "CENTRAL PIEDMONT",
-      "cnty": "Davidsson",
+      "cnty": "Davidson",
       "num_owp": 25,
       "cv": 99.95,
       "ids": "NC",
@@ -17403,7 +17403,7 @@
     {
       "st": "North Dakota",
       "ag_dist": "CENTRAL",
-      "cnty": "Kidsder",
+      "cnty": "Kidder",
       "num_owp": 5,
       "cv": 79.9,
       "ids": "ND",
@@ -20393,7 +20393,7 @@
     {
       "st": "Rhode Island",
       "ag_dist": "ALL COUNTIES",
-      "cnty": "Providsence",
+      "cnty": "Providence",
       "num_owp": 32,
       "cv": 61.5,
       "ids": "RI",
@@ -21383,7 +21383,7 @@
     {
       "st": "Tennessee",
       "ag_dist": "CENTRAL BASIN",
-      "cnty": "Davidsson",
+      "cnty": "Davidson",
       "num_owp": 20,
       "cv": 84.9,
       "ids": "TN",
@@ -23373,7 +23373,7 @@
     {
       "st": "Texas",
       "ag_dist": "LOWER VALLEY",
-      "cnty": "Hidsalgo",
+      "cnty": "Hidalgo",
       "num_owp": 8,
       "cv": 84.8,
       "ids": "TX",
@@ -23863,7 +23863,7 @@
     {
       "st": "Texas",
       "ag_dist": "SOUTHERN HIGH PLAINS",
-      "cnty": "Midsland",
+      "cnty": "Midland",
       "num_owp": 8,
       "cv": 84.8,
       "ids": "TX",
@@ -24783,7 +24783,7 @@
     {
       "st": "Virginia",
       "ag_dist": "EASTERN",
-      "cnty": "Midsdlesex",
+      "cnty": "Middlesex",
       "num_owp": 1,
       "cv": 62,
       "ids": "VA",
@@ -25003,7 +25003,7 @@
     {
       "st": "Virginia",
       "ag_dist": "SOUTHEASTERN",
-      "cnty": "Dinwidsdie",
+      "cnty": "Dinwiddie",
       "num_owp": 5,
       "cv": 62,
       "ids": "VA",
@@ -25403,7 +25403,7 @@
     {
       "st": "Virginia",
       "ag_dist": "WESTERN",
-      "cnty": "Rockbridsge",
+      "cnty": "Rockbridge",
       "num_owp": 21,
       "cv": 62,
       "ids": "VA",
@@ -25953,7 +25953,7 @@
     {
       "st": "West Virginia",
       "ag_dist": "NORTHWEST",
-      "cnty": "Doddridsge",
+      "cnty": "Doddridge",
       "num_owp": 12,
       "cv": 99.95,
       "ids": "WV",
@@ -26513,7 +26513,7 @@
     {
       "st": "Wisconsin",
       "ag_dist": "NORTH CENTRAL",
-      "cnty": "Oneidsa",
+      "cnty": "Oneida",
       "num_owp": 5,
       "cv": 94.5,
       "ids": "WI",
@@ -27033,7 +27033,7 @@
     {
       "st": "Wyoming",
       "ag_dist": "NORTHEAST",
-      "cnty": "Sheridsan",
+      "cnty": "Sheridan",
       "num_owp": 5,
       "cv": 76,
       "ids": "WY",
