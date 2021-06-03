@@ -73,7 +73,7 @@ am4core.ready(function () {
     // Configure series tooltip
     var polygonTemplate = polygonSeries.mapPolygons.template;
     //polygonTemplate.tooltipText = "{name}:\n{max_h_prod_cny} \n {yield_cny} ln {value}";
-    polygonTemplate.tooltipHTML = '<b>{name}</b><br>colonies (1,000): {max_h_prod_cny} <br>Yield p/colony (pounds): {yield_cny} <br>Production (1,000 pounds): {value}<br>Soure:<a href="https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0320.pdf" target="_blank"> nass.usda.gov</a>';
+    polygonTemplate.tooltipHTML = '<b>{name}:</b><br>Honey Colonies (1,000): <b>{max_h_prod_cny}</b> <br>Yield p/colony (pounds):<b> {yield_cny}</b> <br>Production (1,000 pounds): <b>{value}</b><br>Soure:<a href="https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0320.pdf" target="_blank"> nass.usda.gov</a>';
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
     // Set up tooltips
