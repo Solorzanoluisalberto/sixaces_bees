@@ -70,7 +70,7 @@ Pet = create_classes(db)
 # create route that renders index.html template
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("home.html")
 
 
 # Query the database and send the jsonified results

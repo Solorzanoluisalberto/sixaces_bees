@@ -63,7 +63,7 @@ am4core.ready(function () {
     minRange.label.text = "1000 lbs or lest";
     var maxRange = heatLegend.valueAxis.axisRanges.create();
     maxRange.value = heatLegend.maxValue;
-    maxRange.label.text = "40,000 + lbs";
+    maxRange.label.text = "40,000 + Mlbs";
 
     // Blank out internal heat legend value axis labels
     heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
@@ -72,10 +72,15 @@ am4core.ready(function () {
 
     // Configure series tooltip
     var polygonTemplate = polygonSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}: {value}";
+    //polygonTemplate.tooltipText = "{name}:\n{max_h_prod_cny} \n {yield_cny} ln {value}";
+    polygonTemplate.tooltipHTML = '<b>{name}:</b><br>Honey Colonies (1,000): <b>{max_h_prod_cny}</b> <br>Yield p/colony (pounds):<b> {yield_cny}</b> <br>Production (1,000 pounds): <b>{value}</b><br>Soure:<a href="https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0320.pdf" target="_blank"> nass.usda.gov</a>';
     polygonTemplate.nonScalingStroke = true;
     polygonTemplate.strokeWidth = 0.5;
-
+    // Set up tooltips
+    polygonSeries.calculateVisualCenter = true;
+    polygonTemplate.tooltipPosition = "fixed";
+    polygonSeries.tooltip.label.interactionsEnabled = true;
+    polygonSeries.tooltip.keepTargetHover = true;
     // Create hover state and set alternative fill color
     var hs = polygonTemplate.states.create("hover");
     hs.properties.fill = am4core.color("#b38600");
@@ -155,7 +160,7 @@ am4core.ready(function () {
                 label.latitude = polygon.visualLatitude;
                 label.longitude = polygon.visualLongitude;
                 label.children.getIndex(0).text = state + " ";
-                
+
             }
             //  }
         }
@@ -224,7 +229,7 @@ am4core.ready(function () {
             // Create actual series if it hasn't been yet created
             if (!regionalSeries[data.target].series) {
                 regionalSeries[data.target].series = createSeries("count");
-               // regionalSeries[data.target].series = createSeries("peso");
+                // regionalSeries[data.target].series = createSeries("peso");
                 regionalSeries[data.target].series.data = data.markerData;
             }
 
@@ -244,7 +249,7 @@ am4core.ready(function () {
                     longitude: data.long
                 }, 64, true);
             }
-              //zoomOut.show();
+            //zoomOut.show();
 
             // Show new targert series
             currentSeries = regionalSeries[data.target].series;
@@ -335,9 +340,9 @@ am4core.ready(function () {
             }
             else {
                 regionalSeries[store.city].stores += store.count;
-               // regionalSeries[store.city].peso += store.peso;
-               // regionalSeries[store.city].stores += store.count, // 1,
-                    regionalSeries[store.city].count += store.count;
+                // regionalSeries[store.city].peso += store.peso;
+                // regionalSeries[store.city].stores += store.count, // 1,
+                regionalSeries[store.city].count += store.count;
             }
 
             // Process individual store
