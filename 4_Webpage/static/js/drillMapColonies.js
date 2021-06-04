@@ -172,7 +172,7 @@ am4core.ready(function () {
     // Loads store data
     function loadStores() {
         var loader = new am4core.DataSource();
-        loader.url = "static/json/honey_owp.json"
+        loader.url = "4_Webpage/static/json/honey_owp.json"
         // loader.url = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/TargetStores.json";
 
         loader.events.on("parseended", function (ev) {
