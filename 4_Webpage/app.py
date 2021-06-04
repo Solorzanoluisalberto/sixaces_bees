@@ -67,7 +67,7 @@ db = SQLAlchemy(app)
 
 Pet = create_classes(db)
 
-# create route that renders index.html template
+# create route that renders home.html template
 @app.route("/")
 def home():
     return render_template("home.html")
