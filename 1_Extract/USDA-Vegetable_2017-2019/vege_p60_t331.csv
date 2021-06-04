@@ -1,0 +1,51 @@
+331,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+331,"t","Onion Production, Price, and Value by Utilization – States and United States: 2017-2019(continued)"
+331,"h","","","","","","",""
+331,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+331,"h","Utilization and State","","","","","",""
+331,"h","","2017","2018","2019","2017","2018","2019"
+331,"h","","","","","","",""
+331,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+331,"d","Fresh market",,,,,,
+331,"d","California",14.50,19.40,23.50,222268,165723,228411
+331,"d","Colorado",23.80,"(D)","(D)",39413,"(D)","(D)"
+331,"d","Georgia","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Idaho",9.10,7.10,"(D)",63913,37687,"(D)"
+331,"d","New Mexico",17.50,19.00,25.70,84490,79591,102620
+331,"d","New York",19.50,"(D)",17.90,49316,"(D)",34964
+331,"d","Oregon",8.69,"(D)",6.62,83323,"(D)",60895
+331,"d","  Malheur county","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","  All other counties","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Texas","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Washington","(D)",12.00,"(D)","(D)",141176,"(D)"
+331,"d","",,,,,,
+331,"d","Other States 1/",16.70,16.10,17.80,324905,300467,408978
+331,"d","",,,,,,
+331,"d","United States",14.40,15.00,17.50,867628,724644,835868
+331,"h","","","","","","",""
+331,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+331,"h","Utilization and State","","","","","",""
+331,"h","","2017","2018","2019","2017","2018","2019"
+331,"h","","","","","","",""
+331,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+331,"d","Processing",,,,,,
+331,"d","California",242.00,155.00,155.00,69300,74497,66265
+331,"d","Colorado","(X)","(D)","(D)",-,"(D)","(D)"
+331,"d","Georgia","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Idaho",106.00,102.00,"(D)",10279,10981,"(D)"
+331,"d","New Mexico","(X)","(X)","(X)",-,-,-
+331,"d","New York",300.00,"(D)",250.00,1366,"(D)",1176
+331,"d","Oregon",167.00,"(D)",170.00,54713,"(D)",47514
+331,"d","  Malheur county","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","  All other counties","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Texas","(D)","(D)","(D)","(D)","(D)","(D)"
+331,"d","Washington","(D)",150.00,"(D)","(D)",35035,"(D)"
+331,"d","",,,,,,
+331,"d","Other States 1/",133.00,138.00,156.00,38804,41784,51163
+331,"d","",,,,,,
+331,"d","United States",173.00,144.00,160.00,174462,162297,166118
+331,"c",""
+331,"f","-  Represents zero."
+331,"f","(D)  Withheld to avoid disclosing data for individual operations."
+331,"f","(X)  Not applicable."
+331,"f","1/ Includes data withheld above."

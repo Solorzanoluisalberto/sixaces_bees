@@ -1,0 +1,42 @@
+322,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+322,"t","Onion Area Planted and Harvested, Yield, Production, Price, Value, and Shrinkage and Loss – States and United States: 2017-2019 (continued)"
+322,"h","","","","","","",""
+322,"h","","Shrinkage and loss","Shrinkage and loss","Shrinkage and loss","Utilized production","Utilized production","Utilized production"
+322,"h","State","","","","","",""
+322,"h","","2017","2018","2019","2017","2018","2019"
+322,"h","","","","","","",""
+322,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+322,"d","California",-,295.1,-,21056.0,18154.9,18270.0
+322,"d","Colorado",-,-,37.9,1656.0,1170.0,1109.6
+322,"d","Georgia",94.5,14.0,66.9,3685.5,2794.0,2973.1
+322,"d","Idaho",99.7,14.9,44.7,8962.8,7461.1,8893.3
+322,"d","New Mexico",-,-,-,4828.0,4189.0,3993.0
+322,"d","New York",415.9,54.0,192.6,2620.1,2196.0,2047.4
+322,"d","Oregon",9.5,205.7,142.5,16154.0,15288.3,14778.5
+322,"d","  Malheur county",9.5,205.7,142.5,9512.0,9588.3,9357.5
+322,"d","  All other counties",-,-,-,6642.0,5700.0,5421.0
+322,"d","Texas",-,66.0,60.3,2990.0,3234.0,2954.7
+322,"d","Washington",1208.8,865.0,702.1,18608.2,16436.0,13625.9
+322,"d","",,,,,,
+322,"d","United States",1828.4,1514.7,1247.0,80560.6,70923.3,68645.5
+322,"h","","","","","","",""
+322,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+322,"h","State","","","","","",""
+322,"h","","2017","2018","2019","2017","2018","2019"
+322,"h","","","","","","",""
+322,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+322,"d","California",13.80,13.20,16.10,291568,240220,294676
+322,"d","Colorado",23.80,23.30,16.70,39413,27261,18531
+322,"d","Georgia",34.80,39.60,48.50,128301,110519,144181
+322,"d","Idaho",8.28,6.52,7.40,74192,48668,65815
+322,"d","New Mexico",17.50,19.00,25.70,84490,79591,102620
+322,"d","New York",19.30,19.50,17.70,50682,42752,36140
+322,"d","Oregon",8.55,6.56,7.34,138036,100339,108409
+322,"d","  Malheur county",7.76,6.30,6.44,73841,60439,60292
+322,"d","  All other counties",9.67,7.00,8.88,64195,39900,48117
+322,"d","Texas",24.70,19.00,17.30,73913,61380,51038
+322,"d","Washington",8.68,10.70,13.30,161495,176211,180576
+322,"d","",,,,,,
+322,"d","United States",12.90,12.50,14.60,1042090,886941,1001986
+322,"c",""
+322,"f","-  Represents zero."

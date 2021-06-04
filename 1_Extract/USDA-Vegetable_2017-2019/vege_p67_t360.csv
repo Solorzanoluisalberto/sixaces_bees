@@ -1,0 +1,70 @@
+360,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+360,"t","Chile Pepper Production, Price, and Value by Utilization – States and United States: 2017-2019"
+360,"t","[Chile peppers are defined as all peppers excluding bell peppers.]"
+360,"h","","","",""
+360,"h","","Utilized production","Utilized production","Utilized production"
+360,"h","Utilization and State","","",""
+360,"h","","2017","2018","2019"
+360,"h","","","",""
+360,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+360,"d","Fresh market",,,
+360,"d","Arizona 1/","(D)","(D)","(NA)"
+360,"d","California",280.8,187.1,187.0
+360,"d","New Mexico",263.3,270.2,227.1
+360,"d","Texas 1/","(D)","(D)","(NA)"
+360,"d","",,,
+360,"d","Other States 2/",55.9,94.5,-
+360,"d","",,,
+360,"d","United States",600.0,551.8,414.1
+360,"h","","","",""
+360,"h","","Utilized production","Utilized production","Utilized production"
+360,"h","Utilization and State","","",""
+360,"h","","2017","2018","2019"
+360,"h","","","",""
+360,"u","","(tons)","(tons)","(tons)"
+360,"d","Processing",,,
+360,"d","Arizona 1/","(D)","(D)","(NA)"
+360,"d","California",79560,42620,9754
+360,"d","New Mexico",49533,57591,51722
+360,"d","Texas 1/","(D)","(D)","(NA)"
+360,"d","",,,
+360,"d","Other States 2/",7704,5448,-
+360,"d","",,,
+360,"d","United States",136797,105659,61476
+360,"h","","","","","","",""
+360,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+360,"h","Utilization and State","","","","","",""
+360,"h","","2017","2018","2019","2017","2018","2019"
+360,"h","","","","","","",""
+360,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+360,"d","Fresh market",,,,,,
+360,"d","Arizona 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+360,"d","California",44.20,43.60,48.50,12411,8158,9070
+360,"d","New Mexico",30.00,37.00,38.00,7899,9997,8630
+360,"d","Texas 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+360,"d","",,,,,,
+360,"d","Other States 2/",53.10,64.80,"(X)",2968,6128,-
+360,"d","",,,,,,
+360,"d","United States",38.80,44.00,42.70,23278,24283,17700
+360,"h","","","","","","",""
+360,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+360,"h","Utilization and State","","","","","",""
+360,"h","","2017","2018","2019","2017","2018","2019"
+360,"h","","","","","","",""
+360,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+360,"d","Processing",,,,,,
+360,"d","Arizona 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+360,"d","California",584.00,500.00,475.00,46463,21310,4633
+360,"d","New Mexico",740.00,760.00,800.00,36654,43769,41378
+360,"d","Texas 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+360,"d","",,,,,,
+360,"d","Other States 2/",930.00,992.00,"(X)",7167,5405,-
+360,"d","",,,,,,
+360,"d","United States",660.00,667.00,748.00,90284,70484,46011
+360,"c",""
+360,"f","-  Represents zero."
+360,"f","(D)  Withheld to avoid disclosing data for individual operations."
+360,"f","(NA)  Not available."
+360,"f","(X)  Not applicable."
+360,"f","1/ Estimates discontinued in 2019."
+360,"f","2/ Includes data withheld above."

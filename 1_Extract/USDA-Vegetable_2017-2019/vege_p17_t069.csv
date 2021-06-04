@@ -1,0 +1,67 @@
+69,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+69,"t","Asparagus Production, Price, and Value by Utilization – States and United States: 2017-2019"
+69,"h","","","",""
+69,"h","","Utilized production","Utilized production","Utilized production"
+69,"h","Utilization and State","","",""
+69,"h","","2017","2018","2019"
+69,"h","","","",""
+69,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+69,"d","Fresh market",,,
+69,"d","California",198.0,178.2,182.0
+69,"d","Michigan",144.0,133.0,141.0
+69,"d","New Jersey","(D)","(D)","(D)"
+69,"d","Washington","(D)","(D)","(D)"
+69,"d","",,,
+69,"d","Other States 1/",311.0,306.4,257.0
+69,"d","",,,
+69,"d","United States",653.0,617.6,580.0
+69,"h","","","",""
+69,"h","","Utilized production","Utilized production","Utilized production"
+69,"h","Utilization and State","","",""
+69,"h","","2017","2018","2019"
+69,"h","","","",""
+69,"u","","(tons)","(tons)","(tons)"
+69,"d","Processing",,,
+69,"d","California",-,-,-
+69,"d","Michigan",8055,6650,6627
+69,"d","New Jersey","(D)","(D)","(D)"
+69,"d","Washington","(D)","(D)","(D)"
+69,"d","",,,
+69,"d","Other States 1/",1252,1202,1160
+69,"d","",,,
+69,"d","United States",9307,7852,7787
+69,"h","","","","","","",""
+69,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+69,"h","Utilization and State","","","","","",""
+69,"h","","2017","2018","2019","2017","2018","2019"
+69,"h","","","","","","",""
+69,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+69,"d","Fresh market",,,,,,
+69,"d","California",175.00,149.00,202.00,34650,26552,36764
+69,"d","Michigan",92.00,95.00,105.00,13248,12635,14805
+69,"d","New Jersey","(D)","(D)","(D)","(D)","(D)","(D)"
+69,"d","Washington","(D)","(D)","(D)","(D)","(D)","(D)"
+69,"d","",,,,,,
+69,"d","Other States 1/",123.00,117.00,139.00,38201,35988,35801
+69,"d","",,,,,,
+69,"d","United States",132.00,122.00,151.00,86099,75175,87370
+69,"h","","","","","","",""
+69,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+69,"h","Utilization and State","","","","","",""
+69,"h","","2017","2018","2019","2017","2018","2019"
+69,"h","","","","","","",""
+69,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+69,"d","Processing",,,,,,
+69,"d","California","(X)","(X)","(X)",-,-,-
+69,"d","Michigan",1600.00,1600.00,1630.00,12888,10640,10802
+69,"d","New Jersey","(D)","(D)","(D)","(D)","(D)","(D)"
+69,"d","Washington","(D)","(D)","(D)","(D)","(D)","(D)"
+69,"d","",,,,,,
+69,"d","Other States 1/",1350.00,1470.00,1500.00,1685,1769,1743
+69,"d","",,,,,,
+69,"d","United States",1570.00,1580.00,1610.00,14573,12409,12545
+69,"c",""
+69,"f","-  Represents zero."
+69,"f","(D)  Withheld to avoid disclosing data for individual operations."
+69,"f","(X)  Not applicable."
+69,"f","1/ Includes data withheld above."

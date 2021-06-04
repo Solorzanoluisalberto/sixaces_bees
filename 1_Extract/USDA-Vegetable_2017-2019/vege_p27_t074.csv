@@ -1,0 +1,49 @@
+74,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+74,"t","Broccoli Production, Price, and Value by Utilization – States and United States: 2017-2019"
+74,"h","","","",""
+74,"h","","Utilized production","Utilized production","Utilized production"
+74,"h","Utilization and State","","",""
+74,"h","","2017","2018","2019"
+74,"h","","","",""
+74,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+74,"d","Fresh market",,,
+74,"d","Arizona",1344.0,1308.0,1487.5
+74,"d","California",18564.0,15470.1,15154.4
+74,"d","",,,
+74,"d","United States",19908.0,16778.1,16641.9
+74,"h","","","",""
+74,"h","","Utilized production","Utilized production","Utilized production"
+74,"h","Utilization and State","","",""
+74,"h","","2017","2018","2019"
+74,"h","","","",""
+74,"u","","(tons)","(tons)","(tons)"
+74,"d","Processing",,,
+74,"d","Arizona",-,-,-
+74,"d","California",23800,24746,39880
+74,"d","",,,
+74,"d","United States",23800,24746,39880
+74,"h","","","","","","",""
+74,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+74,"h","Utilization and State","","","","","",""
+74,"h","","2017","2018","2019","2017","2018","2019"
+74,"h","","","","","","",""
+74,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+74,"d","Fresh market",,,,,,
+74,"d","Arizona",56.20,45.20,58.00,75533,59122,86275
+74,"d","California",45.30,42.90,50.60,840949,663667,766813
+74,"d","",,,,,,
+74,"d","United States",46.00,43.10,51.30,916482,722789,853088
+74,"h","","","","","","",""
+74,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+74,"h","Utilization and State","","","","","",""
+74,"h","","2017","2018","2019","2017","2018","2019"
+74,"h","","","","","","",""
+74,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+74,"d","Processing",,,,,,
+74,"d","Arizona","(X)","(X)","(X)",-,-,-
+74,"d","California",388.00,636.00,490.00,9234,15738,19541
+74,"d","",,,,,,
+74,"d","United States",388.00,636.00,490.00,9234,15738,19541
+74,"c",""
+74,"f","-  Represents zero."
+74,"f","(X)  Not applicable."

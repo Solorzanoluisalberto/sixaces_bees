@@ -1,0 +1,42 @@
+321,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+321,"t","Onion Area Planted and Harvested, Yield, Production, Price, Value, and Shrinkage and Loss – States and United States: 2017-2019"
+321,"h","","","","","","",""
+321,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+321,"h","State","","","","","",""
+321,"h","","2017","2018","2019","2017","2018","2019"
+321,"h","","","","","","",""
+321,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+321,"d","California",45000,41600,43700,44800,41000,43500
+321,"d","Colorado",3900,4100,3200,3600,2600,2700
+321,"d","Georgia",11600,11600,9800,10800,10800,9500
+321,"d","Idaho",12600,8500,11000,12500,8400,10900
+321,"d","New Mexico",7300,7200,6600,7100,7100,6600
+321,"d","New York",7000,7800,7100,6900,7500,7000
+321,"d","Oregon",24800,19500,20500,24500,19300,20300
+321,"d","  Malheur county",13800,11900,12600,13700,11800,12500
+321,"d","  All other counties",11000,7600,7900,10800,7500,7800
+321,"d","Texas",12500,12500,10500,11500,11000,9000
+321,"d","Washington",30000,22000,20000,29800,21900,19900
+321,"d","",,,,,,
+321,"d","United States",154700,134800,132400,151500,129600,129400
+321,"h","","","","","","",""
+321,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+321,"h","State","","","","","",""
+321,"h","","2017","2018","2019","2017","2018","2019"
+321,"h","","","","","","",""
+321,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+321,"d","California",470.0,450.0,420.0,21056.0,18450.0,18270.0
+321,"d","Colorado",460.0,450.0,425.0,1656.0,1170.0,1147.5
+321,"d","Georgia",350.0,260.0,320.0,3780.0,2808.0,3040.0
+321,"d","Idaho",725.0,890.0,820.0,9062.5,7476.0,8938.0
+321,"d","New Mexico",680.0,590.0,605.0,4828.0,4189.0,3993.0
+321,"d","New York",440.0,300.0,320.0,3036.0,2250.0,2240.0
+321,"d","Oregon",660.0,803.0,735.0,16163.5,15494.0,14921.0
+321,"d","  Malheur county",695.0,830.0,760.0,9521.5,9794.0,9500.0
+321,"d","  All other counties",615.0,760.0,695.0,6642.0,5700.0,5421.0
+321,"d","Texas",260.0,300.0,335.0,2990.0,3300.0,3015.0
+321,"d","Washington",665.0,790.0,720.0,19817.0,17301.0,14328.0
+321,"d","",,,,,,
+321,"d","United States",543.8,558.9,540.1,82389.0,72438.0,69892.5
+321,"c",""
+321,"c","See footnote(s) at end of table.","--continued"

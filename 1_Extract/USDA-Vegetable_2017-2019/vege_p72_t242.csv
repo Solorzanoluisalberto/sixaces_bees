@@ -1,0 +1,72 @@
+242,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+242,"t","Spinach for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+242,"h","","","","","","",""
+242,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+242,"h","State","","","","","",""
+242,"h","","2017","2018","2019","2017","2018","2019"
+242,"h","","","","","","",""
+242,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+242,"d","Arizona",12300,11400,"(D)",12200,11100,"(D)"
+242,"d","California",47300,44900,50800,46400,44200,50100
+242,"d","Colorado 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","Maryland 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","New Jersey",2300,2200,2000,2100,2000,1900
+242,"d","Texas",3000,3000,"(D)",2800,2800,"(D)"
+242,"d","",,,,,,
+242,"d","Other States 2/",1250,1350,14000,1230,1350,13800
+242,"d","",,,,,,
+242,"d","United States",66150,62850,66800,64730,61450,65800
+242,"h","","","","","","",""
+242,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+242,"h","State","","","","","",""
+242,"h","","2017","2018","2019","2017","2018","2019"
+242,"h","","","","","","",""
+242,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+242,"d","Arizona",150.0,170.0,"(D)",1830.0,1887.0,"(D)"
+242,"d","California",110.0,125.0,140.0,5104.0,5525.0,7014.0
+242,"d","Colorado 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","Maryland 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","New Jersey",150.0,115.0,120.0,315.0,230.0,228.0
+242,"d","Texas",240.0,115.0,"(D)",672.0,322.0,"(D)"
+242,"d","",,,,,,
+242,"d","Other States 2/",138.0,103.0,171.0,169.6,138.5,2364.0
+242,"d","",,,,,,
+242,"d","United States",125.0,131.9,146.0,8090.6,8102.5,9606.0
+242,"h","","","","","","",""
+242,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+242,"h","State","","","","","",""
+242,"h","","2017","2018","2019","2017","2018","2019"
+242,"h","","","","","","",""
+242,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+242,"d","Arizona",-,-,"(D)",1830.0,1887.0,"(D)"
+242,"d","California",-,-,-,5104.0,5525.0,7014.0
+242,"d","Colorado 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","Maryland 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","New Jersey",-,-,-,315.0,230.0,228.0
+242,"d","Texas",-,-,"(D)",672.0,322.0,"(D)"
+242,"d","",,,,,,
+242,"d","Other States 2/",-,-,-,169.6,138.5,2364.0
+242,"d","",,,,,,
+242,"d","United States",-,-,-,8090.6,8102.5,9606.0
+242,"h","","","","","","",""
+242,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+242,"h","State","","","","","",""
+242,"h","","2017","2018","2019","2017","2018","2019"
+242,"h","","","","","","",""
+242,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+242,"d","Arizona",53.30,44.40,"(D)",97539,83783,"(D)"
+242,"d","California",67.20,57.30,55.40,342809,316699,388741
+242,"d","Colorado 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","Maryland 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+242,"d","New Jersey",28.70,22.70,29.20,9039,5230,6658
+242,"d","Texas",28.80,19.10,"(D)",19369,6138,"(D)"
+242,"d","",,,,,,
+242,"d","Other States 2/",12.40,27.60,55.60,2104,3821,131371
+242,"d","",,,,,,
+242,"d","United States",58.20,51.30,54.80,470860,415671,526770
+242,"c",""
+242,"f","-  Represents zero."
+242,"f","(D)  Withheld to avoid disclosing data for individual operations."
+242,"f","(NA)  Not available."
+242,"f","1/ Estimates discontinued in 2019."
+242,"f","2/ Includes data withheld above."

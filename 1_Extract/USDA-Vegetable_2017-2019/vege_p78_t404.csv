@@ -1,0 +1,63 @@
+404,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+404,"t","Strawberry for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+404,"t","[Blank cells indicate estimate period has not yet begun. Beginning in 2019, estimates will only be published in "Noncitrus Fruits and Nuts Summary" released in May 2020]"
+404,"h","","","","","","",""
+404,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+404,"h","State","","","","","",""
+404,"h","","2017","2018","2019","2017","2018","2019"
+404,"h","","","","","","",""
+404,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+404,"d","California",39000,35900,,38100,35800,
+404,"d","Florida",9600,9900,,9500,9800,
+404,"d","New York 1/",1300,800,"(NA)",1200,700,"(NA)"
+404,"d","North Carolina 1/",1100,1100,"(NA)",1000,1000,"(NA)"
+404,"d","Oregon 1/",2400,1300,"(NA)",2200,1100,"(NA)"
+404,"d","Washington 1/",1300,900,"(NA)",1200,820,"(NA)"
+404,"d","",,,,,,
+404,"d","United States",54700,49900,"",53200,49220
+404,"h","","","","","","",""
+404,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+404,"h","State","","","","","",""
+404,"h","","2017","2018","2019","2017","2018","2019"
+404,"h","","","","","","",""
+404,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+404,"d","California",645.0,720.0,,24574.5,25776.0,
+404,"d","Florida",225.0,250.0,,2137.5,2450.0,
+404,"d","New York 1/",39.0,44.0,"(NA)",46.8,30.8,"(NA)"
+404,"d","North Carolina 1/",135.0,125.0,"(NA)",135.0,125.0,"(NA)"
+404,"d","Oregon 1/",91.0,100.0,"(NA)",200.2,110.0,"(NA)"
+404,"d","Washington 1/",95.0,105.0,"(NA)",114.0,86.1,"(NA)"
+404,"d","",,,,,,
+404,"d","United States",511.4,580.6,"",27208.0,28577.9
+404,"h","","","","","","",""
+404,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+404,"h","State","","","","","",""
+404,"h","","2017","2018","2019","2017","2018","2019"
+404,"h","","","","","","",""
+404,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+404,"d","California",24.6,25.8,,24549.9,25750.2,
+404,"d","Florida",-,-,,2137.5,2450.0,
+404,"d","New York 1/",1.3,0.2,"(NA)",45.5,30.6,"(NA)"
+404,"d","North Carolina 1/",6.3,-,"(NA)",128.7,125.0,"(NA)"
+404,"d","Oregon 1/",-,0.7,"(NA)",200.2,109.3,"(NA)"
+404,"d","Washington 1/",1.1,0.3,"(NA)",112.9,85.8,"(NA)"
+404,"d","",,,,,,
+404,"d","United States",33.3,27.0,"",27174.7,28550.9
+404,"h","","","","","","",""
+404,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+404,"h","State","","","","","",""
+404,"h","","2017","2018","2019","2017","2018","2019"
+404,"h","","","","","","",""
+404,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+404,"d","California",103.00,90.90,,2530903,2340315,
+404,"d","Florida",140.00,115.00,,299114,281750,
+404,"d","New York 1/",229.00,204.00,"(NA)",10415,6229,"(NA)"
+404,"d","North Carolina 1/",166.00,171.00,"(NA)",21308,21375,"(NA)"
+404,"d","Oregon 1/",110.00,107.00,"(NA)",22048,11687,"(NA)"
+404,"d","Washington 1/",107.00,107.00,"(NA)",12025,9167,"(NA)"
+404,"d","",,,,,,
+404,"d","United States",107.00,93.50,"",2895813,2670523
+404,"c",""
+404,"f","-  Represents zero."
+404,"f","(NA)  Not available."
+404,"f","1/ Estimates discontinued in 2019."

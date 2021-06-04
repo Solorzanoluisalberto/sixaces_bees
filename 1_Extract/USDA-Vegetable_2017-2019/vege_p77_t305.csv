@@ -1,0 +1,29 @@
+305,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+305,"t","Squash Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+305,"h","","","","","","",""
+305,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+305,"h","Utilization and State","","","","","",""
+305,"h","","2017","2018","2019","2017","2018","2019"
+305,"h","","","","","","",""
+305,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+305,"d","Processing",,,,,,
+305,"d","California","(D)",380.00,"(D)","(D)",1598,"(D)"
+305,"d","Florida","(X)","(D)","(X)",-,"(D)",-
+305,"d","Georgia","(X)","(D)","(D)",-,"(D)","(D)"
+305,"d","Michigan",155.00,140.00,125.00,6330,4609,3118
+305,"d","New Jersey","(D)","(D)","(X)","(D)","(D)",-
+305,"d","New York","(D)","(D)",521.00,"(D)","(D)",2845
+305,"d","North Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+305,"d","Oregon",125.00,123.00,102.00,8016,7444,5196
+305,"d","Texas 1/","(X)","(D)","(NA)",-,"(D)","(NA)"
+305,"d","",,,,,,
+305,"d","Other States 2/",339.00,448.00,325.00,2134,4054,3588
+305,"d","",,,,,,
+305,"d","United States",148.00,166.00,160.00,16480,17705,14747
+305,"c",""
+305,"f","-  Represents zero."
+305,"f","(D)  Withheld to avoid disclosing data for individual operations."
+305,"f","(NA)  Not available."
+305,"f","(X)  Not applicable."
+305,"f","1/ Estimates discontinued in 2019."
+305,"f","2/ Includes data withheld above."

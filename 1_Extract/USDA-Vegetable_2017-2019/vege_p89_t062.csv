@@ -1,0 +1,53 @@
+62,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+62,"t","Watermelon Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+62,"h","","","","","","",""
+62,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+62,"h","Utilization and State","","","","","",""
+62,"h","","2017","2018","2019","2017","2018","2019"
+62,"h","","","","","","",""
+62,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+62,"d","Fresh market",,,,,,
+62,"d","Arizona",23.50,"(D)",13.70,42359,"(D)",34593
+62,"d","California",19.00,18.20,20.60,117348,116369,105060
+62,"d","Delaware 1/",8.00,11.00,"(NA)",8736,11286,"(NA)"
+62,"d","Florida",17.60,20.00,18.00,152944,160866,161539
+62,"d","Georgia",10.90,14.30,12.50,84231,76438,101216
+62,"d","Indiana",10.50,"(D)","(D)",27017,"(D)","(D)"
+62,"d","Maryland 1/",11.10,10.00,"(NA)",12321,10395,"(NA)"
+62,"d","Missouri 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+62,"d","North Carolina",10.80,12.40,14.10,22705,22314,23998
+62,"d","South Carolina",12.20,17.40,"(D)",26276,17174,"(D)"
+62,"d","Texas","(D)","(D)",12.60,"(D)","(D)",83202
+62,"d","",,,,,,
+62,"d","Other States 2/",15.10,17.20,14.00,99782,247360,51132
+62,"d","",,,,,,
+62,"d","United States",14.80,17.00,15.30,593719,662202,560740
+62,"h","","","","","","",""
+62,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+62,"h","Utilization and State","","","","","",""
+62,"h","","2017","2018","2019","2017","2018","2019"
+62,"h","","","","","","",""
+62,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+62,"d","Processing",,,,,,
+62,"d","Arizona","(X)","(D)","(X)",-,"(D)",-
+62,"d","California","(X)","(X)","(X)",-,-,-
+62,"d","Delaware 1/","(X)","(X)","(NA)",-,-,"(NA)"
+62,"d","Florida","(X)","(X)","(X)",-,-,-
+62,"d","Georgia","(X)","(X)","(X)",-,-,-
+62,"d","Indiana","(X)","(D)","(D)",-,"(D)","(D)"
+62,"d","Maryland 1/","(X)","(X)","(NA)",-,-,"(NA)"
+62,"d","Missouri 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+62,"d","North Carolina","(X)","(X)","(X)",-,-,-
+62,"d","South Carolina","(X)","(X)","(D)",-,-,"(D)"
+62,"d","Texas","(D)","(D)","(X)","(D)","(D)",-
+62,"d","",,,,,,
+62,"d","Other States 2/",24.80,146.00,65.40,314,1233,184
+62,"d","",,,,,,
+62,"d","United States",24.80,146.00,65.40,314,1233,184
+62,"c",""
+62,"f","-  Represents zero."
+62,"f","(D)  Withheld to avoid disclosing data for individual operations."
+62,"f","(NA)  Not available."
+62,"f","(X)  Not applicable."
+62,"f","1/ Estimates discontinued in 2019."
+62,"f","2/ Includes data withheld above."

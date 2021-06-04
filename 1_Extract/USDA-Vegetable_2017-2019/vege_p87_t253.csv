@@ -1,0 +1,30 @@
+253,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+253,"t","Watermelon for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019 (continued)"
+253,"h","","","","","","",""
+253,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+253,"h","State","","","","","",""
+253,"h","","2017","2018","2019","2017","2018","2019"
+253,"h","","","","","","",""
+253,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+253,"d","Arizona",23.50,"(D)",13.70,42359,"(D)",34593
+253,"d","California",19.00,18.20,20.60,117348,116369,105060
+253,"d","Delaware 1/",8.00,11.00,"(NA)",8736,11286,"(NA)"
+253,"d","Florida",17.60,20.00,18.00,152944,160866,161539
+253,"d","Georgia",10.90,14.30,12.50,84231,76438,101216
+253,"d","Indiana",10.50,9.14,15.20,27017,27915,35294
+253,"d","Maryland 1/",11.10,10.00,"(NA)",12321,10395,"(NA)"
+253,"d","Missouri 1/",12.00,"(D)","(NA)",8445,"(D)","(NA)"
+253,"d","North Carolina",10.80,12.40,14.10,22705,22314,23998
+253,"d","South Carolina",12.20,17.40,11.40,26276,17174,16022
+253,"d","Texas",14.90,18.50,12.60,91651,143387,83202
+253,"d","",,,,,,
+253,"d","Other States 2/","(X)",20.90,"(X)",-,77291,-
+253,"d","",,,,,,
+253,"d","United States",14.70,16.90,15.30,594033,663435,560924
+253,"c",""
+253,"f","-  Represents zero."
+253,"f","(D)  Withheld to avoid disclosing data for individual operations."
+253,"f","(NA)  Not available."
+253,"f","(X)  Not applicable."
+253,"f","1/ Estimates discontinued in 2019."
+253,"f","2/ Includes data withheld above."

@@ -1,0 +1,78 @@
+408,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+408,"t","Strawberry Production, Price, and Value by Utilization – States and United States: 2017-2019"
+408,"t","[Blank cells indicate estimate period has not yet begun. Beginning in 2019, estimates will only be published in "Noncitrus Fruits and Nuts Summary" released in May 2020]"
+408,"h","","","",""
+408,"h","","Utilized production","Utilized production","Utilized production"
+408,"h","Utilization and State","","",""
+408,"h","","2017","2018","2019"
+408,"h","","","",""
+408,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+408,"d","Fresh market",,,
+408,"d","California",18996.1,20285.7,
+408,"d","Florida","(D)",2450.0,
+408,"d","New York 1/","(D)","(D)","(NA)"
+408,"d","North Carolina 1/",126.0,125.0,"(NA)"
+408,"d","Oregon 1/",32.8,"(D)","(NA)"
+408,"d","Washington 1/","(D)","(D)","(NA)"
+408,"d","",,,
+408,"d","Other States 2/",2217.1,58.1,
+408,"d","",,,
+408,"d","United States",21372.0,22918.8
+408,"h","","","",""
+408,"h","","Utilized production","Utilized production","Utilized production"
+408,"h","Utilization and State","","",""
+408,"h","","2017","2018","2019"
+408,"h","","","",""
+408,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+408,"d","Processing",,,
+408,"d","California",5553.8,5464.5,
+408,"d","Florida","(D)",-,
+408,"d","New York 1/","(D)","(D)","(NA)"
+408,"d","North Carolina 1/",2.7,-,"(NA)"
+408,"d","Oregon 1/",167.4,"(D)","(NA)"
+408,"d","Washington 1/","(D)","(D)","(NA)"
+408,"d","",,,
+408,"d","Other States 2/",78.8,167.6,
+408,"d","",,,
+408,"d","United States",5802.7,5632.1
+408,"h","","","","","","",""
+408,"h","","Price Per cwt","Price Per cwt","Price Per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+408,"h","Utilization and State","","","","","",""
+408,"h","","2017","2018","2019","2017","2018","2019"
+408,"h","","","","","","",""
+408,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+408,"d","Fresh market",,,,,,
+408,"d","California",123.00,104.00,,2336520,2109713,
+408,"d","Florida","(D)",115.00,,"(D)",281750,
+408,"d","New York 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+408,"d","North Carolina 1/",168.00,171.00,"(NA)",21168,21375,"(NA)"
+408,"d","Oregon 1/",195.00,"(D)","(NA)",6396,"(D)","(NA)"
+408,"d","Washington 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+408,"d","",,,,,,
+408,"d","Other States 2/",143.00,211.00,,316105,12288,
+408,"d","",,,,,,
+408,"d","United States",125.00,106.00,"",2680189,2425126
+408,"h","","","","","","",""
+408,"h","","Price Per cwt","Price Per cwt","Price Per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+408,"h","Utilization and State","","","","","",""
+408,"h","","2017","2018","2019","2017","2018","2019"
+408,"h","","","","","","",""
+408,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+408,"d","Processing",,,,,,
+408,"d","California",35.00,42.20,,194383,230602,
+408,"d","Florida","(D)","(X)",,"(D)",-,
+408,"d","New York 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+408,"d","North Carolina 1/",51.90,"(X)","(NA)",140,-,"(NA)"
+408,"d","Oregon 1/",93.50,"(D)","(NA)",15652,"(D)","(NA)"
+408,"d","Washington 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+408,"d","",,,,,,
+408,"d","Other States 2/",69.10,88.30,,5449,14795,
+408,"d","",,,,,,
+408,"d","United States",37.20,43.60,"",215624,245397
+408,"c",""
+408,"f","-  Represents zero."
+408,"f","(D)  Withheld to avoid disclosing data for individual operations."
+408,"f","(NA)  Not available."
+408,"f","(X)  Not applicable."
+408,"f","1/ Estimates discontinued in 2019."
+408,"f","2/ Includes data withheld above."

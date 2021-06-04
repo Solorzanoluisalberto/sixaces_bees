@@ -1,0 +1,74 @@
+280,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+280,"t","Bell Peppers for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+280,"h","","","","","","",""
+280,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+280,"h","State","","","","","",""
+280,"h","","2017","2018","2019","2017","2018","2019"
+280,"h","","","","","","",""
+280,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+280,"d","California",16000,13600,15100,15900,13500,15000
+280,"d","Florida",12500,12400,12200,12000,11900,11800
+280,"d","Georgia",3500,3400,3700,3400,3200,3600
+280,"d","Michigan",2300,2100,2200,2200,2000,2100
+280,"d","New Jersey",3500,3500,3600,3400,3400,3500
+280,"d","New York 1/",1000,1600,"(NA)",900,1400,"(NA)"
+280,"d","North Carolina",2200,2300,2400,2100,2000,2300
+280,"d","Ohio 1/",1400,1500,"(NA)",1300,1400,"(NA)"
+280,"d","Pennsylvania 1/",1100,1200,"(NA)",1000,900,"(NA)"
+280,"d","",,,,,,
+280,"d","United States",43500,41600,39200,42200,39700,38300
+280,"h","","","","","","",""
+280,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+280,"h","State","","","","","",""
+280,"h","","2017","2018","2019","2017","2018","2019"
+280,"h","","","","","","",""
+280,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+280,"d","California",420.0,450.0,360.0,6678.0,6075.0,5400.0
+280,"d","Florida",335.0,300.0,295.0,4020.0,3570.0,3481.0
+280,"d","Georgia",290.0,265.0,310.0,986.0,848.0,1116.0
+280,"d","Michigan",255.0,240.0,255.0,561.0,480.0,535.5
+280,"d","New Jersey",280.0,275.0,300.0,952.0,935.0,1050.0
+280,"d","New York 1/",115.0,110.0,"(NA)",103.5,154.0,"(NA)"
+280,"d","North Carolina",270.0,200.0,240.0,567.0,400.0,552.0
+280,"d","Ohio 1/",225.0,200.0,"(NA)",292.5,280.0,"(NA)"
+280,"d","Pennsylvania 1/",230.0,170.0,"(NA)",230.0,153.0,"(NA)"
+280,"d","",,,,,,
+280,"d","United States",341.0,324.8,316.8,14390.0,12895.0,12134.5
+280,"h","","","","","","",""
+280,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+280,"h","State","","","","","",""
+280,"h","","2017","2018","2019","2017","2018","2019"
+280,"h","","","","","","",""
+280,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+280,"d","California",173.6,-,-,6504.4,6075.0,5400.0
+280,"d","Florida",-,-,-,4020.0,3570.0,3481.0
+280,"d","Georgia",-,-,11.2,986.0,848.0,1104.8
+280,"d","Michigan",-,-,3.7,561.0,480.0,531.8
+280,"d","New Jersey",1.0,5.6,7.3,951.0,929.4,1042.7
+280,"d","New York 1/",6.2,-,"(NA)",97.3,154.0,"(NA)"
+280,"d","North Carolina",-,24.0,22.1,567.0,376.0,529.9
+280,"d","Ohio 1/",-,-,"(NA)",292.5,280.0,"(NA)"
+280,"d","Pennsylvania 1/",16.1,1.2,"(NA)",213.9,151.8,"(NA)"
+280,"d","",,,,,,
+280,"d","United States",196.9,30.8,44.3,14193.1,12864.2,12090.2
+280,"h","","","","","","",""
+280,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+280,"h","State","","","","","",""
+280,"h","","2017","2018","2019","2017","2018","2019"
+280,"h","","","","","","",""
+280,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+280,"d","California",43.40,34.60,33.60,282452,210007,181400
+280,"d","Florida",47.00,50.60,67.50,188940,180642,234968
+280,"d","Georgia",44.20,47.30,49.30,43581,40110,54467
+280,"d","Michigan",27.30,38.00,37.00,15318,18220,19674
+280,"d","New Jersey",41.40,42.70,44.00,39381,39726,45854
+280,"d","New York 1/",53.40,54.90,"(NA)",5196,8455,"(NA)"
+280,"d","North Carolina",45.00,41.70,40.20,25487,15685,21297
+280,"d","Ohio 1/",40.00,43.00,"(NA)",11700,12040,"(NA)"
+280,"d","Pennsylvania 1/",63.20,55.50,"(NA)",13522,8422,"(NA)"
+280,"d","",,,,,,
+280,"d","United States",44.10,41.50,46.10,625577,533307,557660
+280,"c",""
+280,"f","-  Represents zero."
+280,"f","(NA)  Not available."
+280,"f","1/ Estimates discontinued in 2019."

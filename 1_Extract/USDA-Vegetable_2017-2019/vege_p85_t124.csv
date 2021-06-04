@@ -1,0 +1,31 @@
+124,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+124,"t","Tomato Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+124,"t","[Tomatillo and greenhouse tomatoes are excluded. Beginning in 2019 all grape tomatoes are included in estimates]"
+124,"h","","","","","","",""
+124,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+124,"h","Utilization and State","","","","","",""
+124,"h","","2017","2018","2019","2017","2018","2019"
+124,"h","","","","","","",""
+124,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+124,"d","Processing",,,,,,
+124,"d","California",81.00,79.00,80.00,847571,970449,894900
+124,"d","Florida","(X)","(D)","(X)",-,"(D)",-
+124,"d","Indiana 1/",123.00,115.00,"(NA)",28104,28121,"(NA)"
+124,"d","Michigan 1/",103.00,105.00,"(NA)",13705,11839,"(NA)"
+124,"d","New Jersey 1/",94.00,110.00,"(NA)",2016,1136,"(NA)"
+124,"d","North Carolina 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+124,"d","Ohio 1/",116.00,115.00,"(NA)",11864,12917,"(NA)"
+124,"d","South Carolina 1/","(X)","(X)","(NA)",-,-,"(NA)"
+124,"d","Tennessee 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+124,"d","Virginia 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+124,"d","",,,,,,
+124,"d","Other States 2/",506.00,624.00,"(X)",2609,17836,-
+124,"d","",,,,,,
+124,"d","United States",82.70,81.50,80.00,905869,1042298,894900
+124,"c",""
+124,"f","-  Represents zero."
+124,"f","(D)  Withheld to avoid disclosing data for individual operations."
+124,"f","(NA)  Not available."
+124,"f","(X)  Not applicable."
+124,"f","1/ Estimates discontinued in 2019."
+124,"f","2/ Includes data withheld above."

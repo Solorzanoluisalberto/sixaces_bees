@@ -1,0 +1,71 @@
+368,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+368,"t","Carrot Production, Price, and Value by Utilization – States and United States: 2017-2019"
+368,"h","","","",""
+368,"h","","Utilized production","Utilized production","Utilized production"
+368,"h","Utilization and State","","",""
+368,"h","","2017","2018","2019"
+368,"h","","","",""
+368,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+368,"d","Fresh market",,,
+368,"d","California","(D)","(D)","(D)"
+368,"d","Michigan 1/","(D)",410.4,"(NA)"
+368,"d","Texas 1/","(D)","(D)","(NA)"
+368,"d","Washington","(D)","(D)",170.2
+368,"d","Wisconsin",2.5,3.4,"(D)"
+368,"d","",,,
+368,"d","Other States 2/",20854.0,36201.8,40305.9
+368,"d","",,,
+368,"d","United States",20856.5,36615.6,40476.1
+368,"h","","","",""
+368,"h","","Utilized production","Utilized production","Utilized production"
+368,"h","Utilization and State","","",""
+368,"h","","2017","2018","2019"
+368,"h","","","",""
+368,"u","","(tons)","(tons)","(tons)"
+368,"d","Processing",,,
+368,"d","California","(D)","(D)","(D)"
+368,"d","Michigan 1/","(D)",55480,"(NA)"
+368,"d","Texas 1/","(D)","(D)","(NA)"
+368,"d","Washington","(D)","(D)",234688
+368,"d","Wisconsin",125622,85570,"(D)"
+368,"d","",,,
+368,"d","Other States 2/",381351,316023,231628
+368,"d","",,,
+368,"d","United States",506973,457073,466316
+368,"h","","","","","","",""
+368,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+368,"h","Utilization and State","","","","","",""
+368,"h","","2017","2018","2019","2017","2018","2019"
+368,"h","","","","","","",""
+368,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+368,"d","Fresh market",,,,,,
+368,"d","California","(D)","(D)","(D)","(D)","(D)","(D)"
+368,"d","Michigan 1/","(D)",19.00,"(NA)","(D)",7798,"(NA)"
+368,"d","Texas 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+368,"d","Washington","(D)","(D)",57.00,"(D)","(D)",9701
+368,"d","Wisconsin",111.00,138.00,"(D)",278,469,"(D)"
+368,"d","",,,,,,
+368,"d","Other States 2/",30.10,18.40,19.60,628564,664918,790090
+368,"d","",,,,,,
+368,"d","United States",30.20,18.40,19.80,628842,673185,799791
+368,"h","","","","","","",""
+368,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+368,"h","Utilization and State","","","","","",""
+368,"h","","2017","2018","2019","2017","2018","2019"
+368,"h","","","","","","",""
+368,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+368,"d","Processing",,,,,,
+368,"d","California","(D)","(D)","(D)","(D)","(D)","(D)"
+368,"d","Michigan 1/","(D)",120.00,"(NA)","(D)",6658,"(NA)"
+368,"d","Texas 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+368,"d","Washington","(D)","(D)",84.00,"(D)","(D)",19714
+368,"d","Wisconsin",68.00,77.40,"(D)",8542,6623,"(D)"
+368,"d","",,,,,,
+368,"d","Other States 2/",154.00,147.00,190.00,58745,46480,44013
+368,"d","",,,,,,
+368,"d","United States",133.00,131.00,137.00,67287,59761,63727
+368,"c",""
+368,"f","(D)  Withheld to avoid disclosing data for individual operations."
+368,"f","(NA)  Not available."
+368,"f","1/ Estimates discontinued in 2019."
+368,"f","2/ Includes data withheld above."

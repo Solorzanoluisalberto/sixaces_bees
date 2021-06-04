@@ -1,0 +1,44 @@
+71,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+71,"t","Broccoli for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+71,"h","","","","","","",""
+71,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+71,"h","State","","","","","",""
+71,"h","","2017","2018","2019","2017","2018","2019"
+71,"h","","","","","","",""
+71,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+71,"d","Arizona",9600,10900,11900,9600,10900,11900
+71,"d","California",120000,104000,100000,119000,103000,99700
+71,"d","",,,,,,
+71,"d","United States",129600,114900,111900,128600,113900,111600
+71,"h","","","","","","",""
+71,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+71,"h","State","","","","","",""
+71,"h","","2017","2018","2019","2017","2018","2019"
+71,"h","","","","","","",""
+71,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+71,"d","Arizona",140.0,120.0,125.0,1344.0,1308.0,1487.5
+71,"d","California",160.0,155.0,160.0,19040.0,15965.0,15952.0
+71,"d","",,,,,,
+71,"d","United States",158.5,151.7,156.3,20384.0,17273.0,17439.5
+71,"h","","","","","","",""
+71,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+71,"h","State","","","","","",""
+71,"h","","2017","2018","2019","2017","2018","2019"
+71,"h","","","","","","",""
+71,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+71,"d","Arizona",-,-,-,1344.0,1308.0,1487.5
+71,"d","California",-,-,-,19040.0,15965.0,15952.0
+71,"d","",,,,,,
+71,"d","United States",-,-,-,20384.0,17273.0,17439.5
+71,"h","","","","","","",""
+71,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+71,"h","State","","","","","",""
+71,"h","","2017","2018","2019","2017","2018","2019"
+71,"h","","","","","","",""
+71,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+71,"d","Arizona",56.20,45.20,58.00,75533,59122,86275
+71,"d","California",44.70,42.60,49.30,850183,679405,786354
+71,"d","",,,,,,
+71,"d","United States",45.40,42.80,50.00,925716,738527,872629
+71,"c",""
+71,"f","-  Represents zero."

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
+    <meta name="latitude" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Project III - GA Bees Pollination">
+    <meta name="author" content="LUIS SOLORZANO, sixaces Georgia Tech Data Science and Analytics Boot Camp">
+    <title>Project III - Pollination 2019 - Map Visualization Dashboard</title>
+
+    <link rel="stylesheet" href="static/css/bootstrap.css" />
+    <link rel="stylesheet" href="static/css/index.css" />
+    <link rel="stylesheet" href="static/css/ammap.css" type="text/css" media="all" />
+    <script src="static/js/d3.v5.min.js"></script>
+</head>
+<body>
+
+    <div class="app-body">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-3 align-self-end">
+                    <div class="tap_">
+                        <a href="index.html">
+
+                            <img src="static/img/3437331.png" alt="Girl in a jacket" width="30" height="30">
+
+                            <strong> US Honey Production lbs</strong>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="tap_1">
+                        <a href="#">
+                            <img src="static/img/bee1.svg" alt="Girl in a jacket" width="30" height="30">
+                            <strong> Honey State Distribution 2019</strong>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="tap_">
+                        <a href="test.html">
+                            <img src="static/img/3437331.png" alt="Girl in a jacket" width="30" height="30">
+                            <strong> History</strong>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-map-panel" id="mapdiv"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="static/js/core.js"></script>
+    <script src="static/js/maps.js"></script>
+    <script src="static/js/charts.js"></script>
+    <script src="static/json/GA_plates.json"></script>
+    <script src="static/json/usaHigh.json"></script>
+    <script src="static/js/animated.js"></script>
+    <script src="static/json/hp_prod_19.json"></script>
+    <script src="static/js/Colonies-pie.js"></script>
+</body>
+</html>

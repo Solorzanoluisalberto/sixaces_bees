@@ -1,0 +1,46 @@
+266,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+266,"t","Celery for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+266,"h","","","","","","",""
+266,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+266,"h","State","","","","","",""
+266,"h","","2017","2018","2019","2017","2018","2019"
+266,"h","","","","","","",""
+266,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+266,"d","California",30000,28400,28200,29700,28300,28100
+266,"d","Michigan 1/",2200,2000,"(NA)",2100,1900,"(NA)"
+266,"d","",,,,,,
+266,"d","United States",32200,30400,28200,31800,30200,28100
+266,"h","","","","","","",""
+266,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+266,"h","State","","","","","",""
+266,"h","","2017","2018","2019","2017","2018","2019"
+266,"h","","","","","","",""
+266,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+266,"d","California",500.0,580.0,560.0,14850.0,16414.0,15736.0
+266,"d","Michigan 1/",590.0,580.0,"(NA)",1239.0,1102.0,"(NA)"
+266,"d","",,,,,,
+266,"d","United States",505.9,580.0,560.0,16089.0,17516.0,15736.0
+266,"h","","","","","","",""
+266,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+266,"h","State","","","","","",""
+266,"h","","2017","2018","2019","2017","2018","2019"
+266,"h","","","","","","",""
+266,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+266,"d","California",44.5,16.4,15.7,14805.5,16397.6,15720.3
+266,"d","Michigan 1/",-,-,"(NA)",1239.0,1102.0,"(NA)"
+266,"d","",,,,,,
+266,"d","United States",44.5,16.4,15.7,16044.5,17499.6,15720.3
+266,"h","","","","","","",""
+266,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+266,"h","State","","","","","",""
+266,"h","","2017","2018","2019","2017","2018","2019"
+266,"h","","","","","","",""
+266,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+266,"d","California",20.60,25.50,30.20,305411,417347,474711
+266,"d","Michigan 1/",13.40,17.70,"(NA)",16636,19471,"(NA)"
+266,"d","",,,,,,
+266,"d","United States",20.10,25.00,30.20,322047,436818,474711
+266,"c",""
+266,"f","-  Represents zero."
+266,"f","(NA)  Not available."
+266,"f","1/ Estimates discontinued in 2019."

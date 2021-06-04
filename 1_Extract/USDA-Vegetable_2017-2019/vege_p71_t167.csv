@@ -1,0 +1,65 @@
+167,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+167,"t","Pumpkin Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+167,"h","","","","","","",""
+167,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+167,"h","Utilization and State","","","","","",""
+167,"h","","2017","2018","2019","2017","2018","2019"
+167,"h","","","","","","",""
+167,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+167,"d","Fresh market",,,,,,
+167,"d","California",14.30,20.60,19.10,20742,27592,22754
+167,"d","Illinois","(D)",16.80,18.40,"(D)",5472,9884
+167,"d","Indiana","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Michigan","(D)","(D)",16.00,"(D)","(D)",12909
+167,"d","Minnesota 1/",26.50,29.50,"(NA)",3691,12369,"(NA)"
+167,"d","New Jersey 1/",30.80,38.40,"(NA)",6101,4178,"(NA)"
+167,"d","New York",19.50,"(D)",22.70,11123,"(D)",8635
+167,"d","North Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Ohio","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Oregon","(D)",25.80,20.90,"(D)",7123,2916
+167,"d","",,,,,,
+167,"d","Pennsylvania","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Tennessee 1/",19.10,21.90,"(NA)",2132,2264,"(NA)"
+167,"d","Texas",26.80,14.90,"(D)",23163,24069,"(D)"
+167,"d","Virginia",14.40,15.00,"(D)",10348,15366,"(D)"
+167,"d","Washington","(D)",40.00,38.90,"(D)",11844,15544
+167,"d","Wisconsin",27.80,13.00,"(D)",11023,2791,"(D)"
+167,"d","",,,,,,
+167,"d","Other States 2/",18.10,17.00,17.30,94540,70771,97424
+167,"d","",,,,,,
+167,"d","United States",18.90,18.60,18.70,182863,183839,170066
+167,"h","","","","","","",""
+167,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+167,"h","Utilization and State","","","","","",""
+167,"h","","2017","2018","2019","2017","2018","2019"
+167,"h","","","","","","",""
+167,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+167,"d","Processing",,,,,,
+167,"d","California","(X)","(X)","(X)",-,-,-
+167,"d","Illinois","(D)",34.40,39.40,"(D)",8279,7201
+167,"d","Indiana","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Michigan","(D)","(D)","(X)","(D)","(D)",-
+167,"d","Minnesota 1/","(X)","(X)","(NA)",-,-,"(NA)"
+167,"d","New Jersey 1/","(X)","(X)","(NA)",-,-,"(NA)"
+167,"d","New York","(X)","(D)","(X)",-,"(D)",-
+167,"d","North Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Ohio","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Oregon","(D)",144.00,104.00,"(D)",2658,2231
+167,"d","",,,,,,
+167,"d","Pennsylvania","(D)","(D)","(D)","(D)","(D)","(D)"
+167,"d","Tennessee 1/","(X)","(X)","(NA)",-,-,"(NA)"
+167,"d","Texas","(X)","(X)","(D)",-,-,"(D)"
+167,"d","Virginia","(X)","(X)","(D)",-,-,"(D)"
+167,"d","Washington","(D)","(X)","(X)","(D)",-,-
+167,"d","Wisconsin","(X)","(X)","(D)",-,-,"(D)"
+167,"d","",,,,,,
+167,"d","Other States 2/",46.20,201.00,208.00,13678,669,692
+167,"d","",,,,,,
+167,"d","United States",46.20,44.20,48.80,13678,11606,10124
+167,"c",""
+167,"f","-  Represents zero."
+167,"f","(D)  Withheld to avoid disclosing data for individual operations."
+167,"f","(NA)  Not available."
+167,"f","(X)  Not applicable."
+167,"f","1/ Estimates discontinued in 2019."
+167,"f","2/ Includes data withheld above."

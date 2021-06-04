@@ -1,0 +1,29 @@
+205,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+205,"t","Cabbage Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+205,"h","","","","","","",""
+205,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+205,"h","Utilization and State","","","","","",""
+205,"h","","2017","2018","2019","2017","2018","2019"
+205,"h","","","","","","",""
+205,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+205,"d","Processing",,,,,,
+205,"d","Arizona","(D)","(D)","(D)","(D)","(D)","(D)"
+205,"d","California","(D)","(X)","(D)","(D)",-,"(D)"
+205,"d","Florida","(X)","(X)","(D)",-,-,"(D)"
+205,"d","Georgia","(D)","(D)","(D)","(D)","(D)","(D)"
+205,"d","Michigan","(D)",155.00,155.00,"(D)",4717,7115
+205,"d","New York",150.00,200.00,"(D)",4625,1576,"(D)"
+205,"d","North Carolina 1/","(X)","(X)","(NA)",-,-,"(NA)"
+205,"d","Texas","(X)","(X)","(D)",-,-,"(D)"
+205,"d","Wisconsin","(D)","(D)","(D)","(D)","(D)","(D)"
+205,"d","",,,,,,
+205,"d","Other States 2/",212.00,94.60,190.00,36124,5466,16810
+205,"d","",,,,,,
+205,"d","United States",202.00,122.00,178.00,40749,11759,23925
+205,"c",""
+205,"f","-  Represents zero."
+205,"f","(D)  Withheld to avoid disclosing data for individual operations."
+205,"f","(NA)  Not available."
+205,"f","(X)  Not applicable."
+205,"f","1/ Estimates discontinued in 2019."
+205,"f","2/ Includes data withheld above."

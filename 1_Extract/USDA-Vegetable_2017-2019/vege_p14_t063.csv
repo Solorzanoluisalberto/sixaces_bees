@@ -1,0 +1,40 @@
+63,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+63,"t","Artichokes for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+63,"h","","","","","","",""
+63,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+63,"h","State","","","","","",""
+63,"h","","2017","2018","2019","2017","2018","2019"
+63,"h","","","","","","",""
+63,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+63,"d","California",7200,6900,7200,7200,6900,7200
+63,"d","",,,,,,
+63,"d","United States",7200,6900,7200,7200,6900,7200
+63,"h","","","","","","",""
+63,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+63,"h","State","","","","","",""
+63,"h","","2017","2018","2019","2017","2018","2019"
+63,"h","","","","","","",""
+63,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+63,"d","California",130.0,145.0,140.0,936.0,1000.5,1008.0
+63,"d","",,,,,,
+63,"d","United States",130.0,145.0,140.0,936.0,1000.5,1008.0
+63,"h","","","","","","",""
+63,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+63,"h","State","","","","","",""
+63,"h","","2017","2018","2019","2017","2018","2019"
+63,"h","","","","","","",""
+63,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+63,"d","California",-,-,-,936.0,1000.5,1008.0
+63,"d","",,,,,,
+63,"d","United States",-,-,-,936.0,1000.5,1008.0
+63,"h","","","","","","",""
+63,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+63,"h","State","","","","","",""
+63,"h","","2017","2018","2019","2017","2018","2019"
+63,"h","","","","","","",""
+63,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+63,"d","California",70.00,63.00,78.00,65520,63032,78624
+63,"d","",,,,,,
+63,"d","United States",70.00,63.00,78.00,65520,63032,78624
+63,"c",""
+63,"f","-  Represents zero."

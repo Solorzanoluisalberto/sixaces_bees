@@ -1,0 +1,55 @@
+287,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+287,"t","Chile Peppers for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+287,"t","[Chile peppers are defined as all peppers excluding bell peppers.]"
+287,"h","","","","","","",""
+287,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+287,"h","State","","","","","",""
+287,"h","","2017","2018","2019","2017","2018","2019"
+287,"h","","","","","","",""
+287,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+287,"d","Arizona 1/",1400,1100,"(NA)",1200,1100,"(NA)"
+287,"d","California",4900,2700,1500,4800,2700,1500
+287,"d","New Mexico",8100,8400,9100,7600,7900,8700
+287,"d","Texas 1/",2700,2700,"(NA)",2400,2500,"(NA)"
+287,"d","",,,,,,
+287,"d","United States",17100,14900,10600,16000,14200,10200
+287,"h","","","","","","",""
+287,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+287,"h","State","","","","","",""
+287,"h","","2017","2018","2019","2017","2018","2019"
+287,"h","","","","","","",""
+287,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+287,"d","Arizona 1/",65.0,60.0,"(NA)",78.0,66.0,"(NA)"
+287,"d","California",390.0,385.0,255.0,1872.0,1039.5,382.5
+287,"d","New Mexico",165.0,180.0,145.0,1254.0,1422.0,1261.5
+287,"d","Texas 1/",55.0,55.0,"(NA)",132.0,137.5,"(NA)"
+287,"d","",,,,,,
+287,"d","United States",208.5,187.7,161.2,3336.0,2665.0,1644.0
+287,"h","","","","","","",""
+287,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+287,"h","State","","","","","",""
+287,"h","","2017","2018","2019","2017","2018","2019"
+287,"h","","","","","","",""
+287,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+287,"d","Arizona 1/",-,-,"(NA)",78.0,66.0,"(NA)"
+287,"d","California",-,-,0.4,1872.0,1039.5,382.1
+287,"d","New Mexico",-,-,-,1254.0,1422.0,1261.5
+287,"d","Texas 1/",-,-,"(NA)",132.0,137.5,"(NA)"
+287,"d","",,,,,,
+287,"d","United States",-,-,0.4,3336.0,2665.0,1643.6
+287,"h","","","","","","",""
+287,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+287,"h","State","","","","","",""
+287,"h","","2017","2018","2019","2017","2018","2019"
+287,"h","","","","","","",""
+287,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+287,"d","Arizona 1/",26.10,40.30,"(NA)",2039,2660,"(NA)"
+287,"d","California",31.40,28.30,35.90,58874,29468,13703
+287,"d","New Mexico",35.50,37.80,39.60,44553,53766,50008
+287,"d","Texas 1/",61.30,64.50,"(NA)",8096,8873,"(NA)"
+287,"d","",,,,,,
+287,"d","United States",34.00,35.60,38.80,113562,94767,63711
+287,"c",""
+287,"f","-  Represents zero."
+287,"f","(NA)  Not available."
+287,"f","1/ Estimates discontinued in 2019."

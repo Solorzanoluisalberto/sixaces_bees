@@ -1,0 +1,52 @@
+224,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+224,"t","Cucumbers for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019 (continued)"
+224,"h","","","","","","",""
+224,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+224,"h","State","","","","","",""
+224,"h","","2017","2018","2019","2017","2018","2019"
+224,"h","","","","","","",""
+224,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+224,"d","Alabama 1/",-,4.3,"(NA)",756.0,615.2,"(NA)"
+224,"d","California",-,-,-,1435.0,1660.5,1088.0
+224,"d","Delaware 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+224,"d","Florida",-,-,6.9,5309.5,4233.0,3443.1
+224,"d","Georgia",-,-,18.2,1662.5,1410.0,1801.8
+224,"d","Michigan",-,4.1,11.9,5625.0,4123.9,5928.1
+224,"d","New Jersey 1/",0.9,3.7,"(NA)",463.1,240.7,"(NA)"
+224,"d","North Carolina",15.1,6.0,-,1664.9,1482.0,1653.0
+224,"d","Ohio 1/",7.8,-,"(NA)",332.2,294.5,"(NA)"
+224,"d","South Carolina 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+224,"d","Texas",-,-,"(D)",610.0,475.3,"(D)"
+224,"d","Wisconsin",1.5,8.6,"(D)",736.0,603.4,"(D)"
+224,"d","",,,,,,
+224,"d","Other States 2/",0.5,2.9,2.1,292.8,282.3,991.6
+224,"d","",,,,,,
+224,"d","United States",25.8,29.6,39.1,18887.0,15420.8,14905.6
+224,"h","","","","","","",""
+224,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+224,"h","State","","","","","",""
+224,"h","","2017","2018","2019","2017","2018","2019"
+224,"h","","","","","","",""
+224,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+224,"d","Alabama 1/",22.00,25.00,"(NA)",16659,15379,"(NA)"
+224,"d","California",24.70,20.30,27.70,35485,33781,30133
+224,"d","Delaware 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+224,"d","Florida",25.90,28.00,25.90,137601,118524,89277
+224,"d","Georgia",26.40,25.00,25.60,43853,35212,46172
+224,"d","Michigan",14.20,13.40,11.90,79739,55418,70560
+224,"d","New Jersey 1/",35.50,29.20,"(NA)",16431,7028,"(NA)"
+224,"d","North Carolina",17.20,17.30,15.40,28699,25582,25478
+224,"d","Ohio 1/",16.20,16.90,"(NA)",5376,4983,"(NA)"
+224,"d","South Carolina 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+224,"d","Texas",19.00,18.40,"(D)",11590,8746,"(D)"
+224,"d","Wisconsin",15.70,21.40,"(D)",11531,12913,"(D)"
+224,"d","",,,,,,
+224,"d","Other States 2/",17.20,19.20,17.30,5049,5433,17174
+224,"d","",,,,,,
+224,"d","United States",20.80,20.90,18.70,392013,322999,278794
+224,"c",""
+224,"f","-  Represents zero."
+224,"f","(D)  Withheld to avoid disclosing data for individual operations."
+224,"f","(NA)  Not available."
+224,"f","1/ Estimates discontinued in 2019."
+224,"f","2/ Includes data withheld above."

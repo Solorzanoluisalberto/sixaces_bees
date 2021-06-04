@@ -1,0 +1,52 @@
+66,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+66,"t","Asparagus for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+66,"h","","","","","","",""
+66,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+66,"h","State","","","","","",""
+66,"h","","2017","2018","2019","2017","2018","2019"
+66,"h","","","","","","",""
+66,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+66,"d","California",8300,6200,5300,8000,6000,5200
+66,"d","Michigan",12000,10000,10000,11300,9500,9400
+66,"d","New Jersey",2200,2200,2100,2100,2100,2000
+66,"d","Washington",5100,4500,4500,4900,4100,4100
+66,"d","",,,,,,
+66,"d","United States",27600,22900,21900,26300,21700,20700
+66,"h","","","","","","",""
+66,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+66,"h","State","","","","","",""
+66,"h","","2017","2018","2019","2017","2018","2019"
+66,"h","","","","","","",""
+66,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+66,"d","California",25.0,30.0,35.0,200.0,180.0,182.0
+66,"d","Michigan",27.0,28.0,30.0,305.1,266.0,282.0
+66,"d","New Jersey",34.0,33.0,32.0,71.4,69.3,64.0
+66,"d","Washington",54.0,65.0,55.0,264.6,266.5,225.5
+66,"d","",,,,,,
+66,"d","United States",32.0,36.0,36.4,841.1,781.8,753.5
+66,"h","","","","","","",""
+66,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+66,"h","State","","","","","",""
+66,"h","","2017","2018","2019","2017","2018","2019"
+66,"h","","","","","","",""
+66,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+66,"d","California",2.0,1.8,-,198.0,178.2,182.0
+66,"d","Michigan",-,-,8.5,305.1,266.0,273.5
+66,"d","New Jersey",-,-,0.3,71.4,69.3,63.7
+66,"d","Washington",-,5.3,9.0,264.6,261.2,216.5
+66,"d","",,,,,,
+66,"d","United States",2.0,7.1,17.8,839.1,774.7,735.7
+66,"h","","","","","","",""
+66,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+66,"h","State","","","","","",""
+66,"h","","2017","2018","2019","2017","2018","2019"
+66,"h","","","","","","",""
+66,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+66,"d","California",175.00,149.00,202.00,34650,26552,36764
+66,"d","Michigan",85.70,87.50,93.60,26136,23275,25607
+66,"d","New Jersey",183.00,167.00,256.00,13054,11562,16302
+66,"d","Washington",101.00,100.00,98.10,26832,26195,21242
+66,"d","",,,,,,
+66,"d","United States",120.00,113.00,136.00,100672,87584,99915
+66,"c",""
+66,"f","-  Represents zero."

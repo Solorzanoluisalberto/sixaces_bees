@@ -1,0 +1,40 @@
+273,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+273,"t","Garlic for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+273,"h","","","","","","",""
+273,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+273,"h","State","","","","","",""
+273,"h","","2017","2018","2019","2017","2018","2019"
+273,"h","","","","","","",""
+273,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+273,"d","California",33000,29900,27000,33000,29900,27000
+273,"d","",,,,,,
+273,"d","United States",33000,29900,27000,33000,29900,27000
+273,"h","","","","","","",""
+273,"h","","Yield per acre","Yield per acre","Yield per acre","Total Production","Total Production","Total Production"
+273,"h","State","","","","","",""
+273,"h","","2017","2018","2019","2017","2018","2019"
+273,"h","","","","","","",""
+273,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+273,"d","California",155.0,175.0,155.0,5115.0,5232.5,4185.0
+273,"d","",,,,,,
+273,"d","United States",155.0,175.0,155.0,5115.0,5232.5,4185.0
+273,"h","","","","","","",""
+273,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+273,"h","State","","","","","",""
+273,"h","","2017","2018","2019","2017","2018","2019"
+273,"h","","","","","","",""
+273,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+273,"d","California",-,-,-,5115.0,5232.5,4185.0
+273,"d","",,,,,,
+273,"d","United States",-,-,-,5115.0,5232.5,4185.0
+273,"h","","","","","","",""
+273,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+273,"h","State","","","","","",""
+273,"h","","2017","2018","2019","2017","2018","2019"
+273,"h","","","","","","",""
+273,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+273,"d","California",76.30,78.90,78.20,390021,412587,327277
+273,"d","",,,,,,
+273,"d","United States",76.30,78.90,78.20,390021,412587,327277
+273,"c",""
+273,"f","-  Represents zero."

@@ -1,0 +1,67 @@
+25,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+25,"t","Sweet Corn Production, Price, and Value by Utilization – States and United States: 2017-2019 (continued)"
+25,"h","","","","","","",""
+25,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+25,"h","Utilization and State","","","","","",""
+25,"h","","2017","2018","2019","2017","2018","2019"
+25,"h","","","","","","",""
+25,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+25,"d","Fresh  market",,,,,,
+25,"d","California",30.80,28.90,28.50,196042,175828,172368
+25,"d","Delaware 1/",31.00,30.00,"(NA)",13125,10887,"(NA)"
+25,"d","Florida",29.00,30.00,30.00,158340,142920,140883
+25,"d","Georgia",25.00,25.70,24.60,98393,111684,75042
+25,"d","Idaho 1/","(D)",35.00,"(NA)","(D)",12163,"(NA)"
+25,"d","Illinois",25.90,27.00,31.50,5462,8378,7415
+25,"d","Indiana 1/",26.00,23.00,"(NA)",9126,8959,"(NA)"
+25,"d","Maryland 1/",26.00,33.00,"(NA)",9183,11065,"(NA)"
+25,"d","Michigan 1/",23.00,23.00,"(NA)",20930,19256,"(NA)"
+25,"d","Minnesota",33.50,46.00,24.80,22405,27066,6537
+25,"d","",,,,,,
+25,"d","New Jersey 1/",35.00,"(D)","(NA)",17840,"(D)","(NA)"
+25,"d","New York",28.70,28.60,37.30,22822,29395,30198
+25,"d","Ohio 1/",26.00,27.00,"(NA)",20829,23342,"(NA)"
+25,"d","Oregon",29.50,27.30,25.00,13396,14234,17125
+25,"d","Pennsylvania 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+25,"d","Washington",35.50,43.90,34.20,28688,19628,21546
+25,"d","Wisconsin",30.80,26.80,21.60,12499,8737,7655
+25,"d","",,,,,,
+25,"d","Other States 2/",34.50,38.00,"(X)",40008,37910,-
+25,"d","",,,,,,
+25,"d","United States",29.20,29.30,28.50,689088,661452,478769
+25,"h","","","","","","",""
+25,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+25,"h","Utilization and State","","","","","",""
+25,"h","","2017","2018","2019","2017","2018","2019"
+25,"h","","","","","","",""
+25,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+25,"d","Processing",,,,,,
+25,"d","California","(X)","(X)","(X)",-,-,-
+25,"d","Delaware 1/",116.00,100.00,"(NA)",6314,5746,"(NA)"
+25,"d","Florida","(X)","(X)","(X)",-,-,-
+25,"d","Georgia","(X)","(X)","(X)",-,-,-
+25,"d","Idaho 1/","(D)","(X)","(NA)","(D)",-,"(NA)"
+25,"d","Illinois",74.20,71.10,75.00,6330,5385,8117
+25,"d","Indiana 1/","(X)","(X)","(NA)",-,-,"(NA)"
+25,"d","Maryland 1/",93.00,92.00,"(NA)",2464,2929,"(NA)"
+25,"d","Michigan 1/","(X)","(X)","(NA)",-,-,"(NA)"
+25,"d","Minnesota",64.00,73.70,65.30,56956,54833,43894
+25,"d","",,,,,,
+25,"d","New Jersey 1/",101.00,"(D)","(NA)",494,"(D)","(NA)"
+25,"d","New York",73.00,79.00,78.00,9170,6862,10224
+25,"d","Ohio 1/","(X)","(X)","(NA)",-,-,"(NA)"
+25,"d","Oregon",112.00,112.00,101.00,22887,30258,20978
+25,"d","Pennsylvania 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+25,"d","Washington",90.00,80.00,85.00,66084,64452,64260
+25,"d","Wisconsin",70.00,67.90,62.80,32364,31444,25815
+25,"d","",,,,,,
+25,"d","Other States 2/",151.00,103.00,"(X)",28,703,-
+25,"d","",,,,,,
+25,"d","United States",78.50,79.70,75.80,203091,202612,173288
+25,"c",""
+25,"f","-  Represents zero."
+25,"f","(D)  Withheld to avoid disclosing data for individual operations."
+25,"f","(NA)  Not available."
+25,"f","(X)  Not applicable."
+25,"f","1/ Estimates discontinued in 2019."
+25,"f","2/ Includes data withheld above."

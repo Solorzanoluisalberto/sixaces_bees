@@ -1,0 +1,44 @@
+38,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+38,"t","Head Lettuce for Fresh Market Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+38,"h","","","","","","",""
+38,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+38,"h","State","","","","","",""
+38,"h","","2017","2018","2019","2017","2018","2019"
+38,"h","","","","","","",""
+38,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+38,"d","Arizona",39500,38700,37400,39200,38600,37300
+38,"d","California",102000,82000,77500,101500,81700,77200
+38,"d","",,,,,,
+38,"d","United States",141500,120700,114900,140700,120300,114500
+38,"h","","","","","","",""
+38,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+38,"h","State","","","","","",""
+38,"h","","2017","2018","2019","2017","2018","2019"
+38,"h","","","","","","",""
+38,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+38,"d","Arizona",315.0,310.0,335.0,12348.0,11966.0,12495.5
+38,"d","California",365.0,350.0,375.0,37047.5,28595.0,28950.0
+38,"d","",,,,,,
+38,"d","United States",351.1,337.2,362.0,49395.5,40561.0,41445.5
+38,"h","","","","","","",""
+38,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+38,"h","State","","","","","",""
+38,"h","","2017","2018","2019","2017","2018","2019"
+38,"h","","","","","","",""
+38,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+38,"d","Arizona",-,-,-,12348.0,11966.0,12495.5
+38,"d","California",-,-,-,37047.5,28595.0,28950.0
+38,"d","",,,,,,
+38,"d","United States",-,-,-,49395.5,40561.0,41445.5
+38,"h","","","","","","",""
+38,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+38,"h","State","","","","","",""
+38,"h","","2017","2018","2019","2017","2018","2019"
+38,"h","","","","","","",""
+38,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+38,"d","Arizona",45.90,37.90,86.90,566773,453511,1085859
+38,"d","California",32.60,26.80,30.20,1207749,766346,874290
+38,"d","",,,,,,
+38,"d","United States",35.90,30.10,47.30,1774522,1219857,1960149
+38,"c",""
+38,"f","-  Represents zero."

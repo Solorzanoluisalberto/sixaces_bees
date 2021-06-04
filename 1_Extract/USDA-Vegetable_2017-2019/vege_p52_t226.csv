@@ -1,0 +1,40 @@
+226,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+226,"t","Honeydew for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+226,"h","","","","","","",""
+226,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+226,"h","State","","","","","",""
+226,"h","","2017","2018","2019","2017","2018","2019"
+226,"h","","","","","","",""
+226,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+226,"d","California",11600,12400,11100,11600,12400,11100
+226,"d","",,,,,,
+226,"d","United States",11600,12400,11100,11600,12400,11100
+226,"h","","","","","","",""
+226,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+226,"h","State","","","","","",""
+226,"h","","2017","2018","2019","2017","2018","2019"
+226,"h","","","","","","",""
+226,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+226,"d","California",290.0,310.0,255.0,3364.0,3844.0,2830.5
+226,"d","",,,,,,
+226,"d","United States",290.0,310.0,255.0,3364.0,3844.0,2830.5
+226,"h","","","","","","",""
+226,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+226,"h","State","","","","","",""
+226,"h","","2017","2018","2019","2017","2018","2019"
+226,"h","","","","","","",""
+226,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+226,"d","California",-,-,-,3364.0,3844.0,2830.5
+226,"d","",,,,,,
+226,"d","United States",-,-,-,3364.0,3844.0,2830.5
+226,"h","","","","","","",""
+226,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+226,"h","State","","","","","",""
+226,"h","","2017","2018","2019","2017","2018","2019"
+226,"h","","","","","","",""
+226,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+226,"d","California",28.00,19.60,20.90,94192,75342,59157
+226,"d","",,,,,,
+226,"d","United States",28.00,19.60,20.90,94192,75342,59157
+226,"c",""
+226,"f","-  Represents zero."

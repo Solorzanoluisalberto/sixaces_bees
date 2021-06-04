@@ -1,0 +1,44 @@
+44,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+44,"t","Romaine Lettuce for Fresh Market Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+44,"h","","","","","","",""
+44,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+44,"h","State","","","","","",""
+44,"h","","2017","2018","2019","2017","2018","2019"
+44,"h","","","","","","",""
+44,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+44,"d","Arizona",27500,27000,24000,27200,26900,23900
+44,"d","California",90500,74500,65800,90200,72700,64000
+44,"d","",,,,,,
+44,"d","United States",118000,101500,89800,117400,99600,87900
+44,"h","","","","","","",""
+44,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+44,"h","State","","","","","",""
+44,"h","","2017","2018","2019","2017","2018","2019"
+44,"h","","","","","","",""
+44,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+44,"d","Arizona",340.0,330.0,330.0,9248.0,8877.0,7887.0
+44,"d","California",300.0,280.0,305.0,27060.0,20356.0,19520.0
+44,"d","",,,,,,
+44,"d","United States",309.3,293.5,311.8,36308.0,29233.0,27407.0
+44,"h","","","","","","",""
+44,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+44,"h","State","","","","","",""
+44,"h","","2017","2018","2019","2017","2018","2019"
+44,"h","","","","","","",""
+44,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+44,"d","Arizona",-,-,-,9248.0,8877.0,7887.0
+44,"d","California",-,203.6,195.2,27060.0,20152.4,19324.8
+44,"d","",,,,,,
+44,"d","United States",-,203.6,195.2,36308.0,29029.4,27211.8
+44,"h","","","","","","",""
+44,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+44,"h","State","","","","","",""
+44,"h","","2017","2018","2019","2017","2018","2019"
+44,"h","","","","","","",""
+44,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+44,"d","Arizona",55.50,37.50,44.30,513264,332888,349394
+44,"d","California",41.20,28.20,27.50,1114872,568298,531432
+44,"d","",,,,,,
+44,"d","United States",44.80,31.00,32.40,1628136,901186,880826
+44,"c",""
+44,"f","-  Represents zero."

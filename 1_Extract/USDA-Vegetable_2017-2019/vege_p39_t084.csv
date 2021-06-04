@@ -1,0 +1,59 @@
+84,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+84,"t","Cauliflower Production, Price, and Value by Utilization – States and United States: 2017-2019"
+84,"h","","","",""
+84,"h","","Utilized production","Utilized production","Utilized production"
+84,"h","Utilization and State","","",""
+84,"h","","2017","2018","2019"
+84,"h","","","",""
+84,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+84,"d","Fresh market",,,
+84,"d","Arizona",1054.5,"(D)","(D)"
+84,"d","California",7635.0,"(D)","(D)"
+84,"d","",,,
+84,"d","Other States 1/",-,9309.1,10045.2
+84,"d","",,,
+84,"d","United States",8689.5,9309.1,10045.2
+84,"h","","","",""
+84,"h","","Utilized production","Utilized production","Utilized production"
+84,"h","Utilization and State","","",""
+84,"h","","2017","2018","2019"
+84,"h","","","",""
+84,"u","","(tons)","(tons)","(tons)"
+84,"d","Processing",,,
+84,"d","Arizona",-,"(D)","(D)"
+84,"d","California",18045,"(D)","(D)"
+84,"d","",,,
+84,"d","Other States 1/",-,9176,446
+84,"d","",,,
+84,"d","United States",18045,9176,446
+84,"h","","","","","","",""
+84,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+84,"h","Utilization and State","","","","","",""
+84,"h","","2017","2018","2019","2017","2018","2019"
+84,"h","","","","","","",""
+84,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+84,"d","Fresh market",,,,,,
+84,"d","Arizona",81.70,"(D)","(D)",86153,"(D)","(D)"
+84,"d","California",42.00,"(D)","(D)",320670,"(D)","(D)"
+84,"d","",,,,,,
+84,"d","Other States 1/","(X)",46.00,46.30,-,428563,465594
+84,"d","",,,,,,
+84,"d","United States",46.80,46.00,46.30,406823,428563,465594
+84,"h","","","","","","",""
+84,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+84,"h","Utilization and State","","","","","",""
+84,"h","","2017","2018","2019","2017","2018","2019"
+84,"h","","","","","","",""
+84,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+84,"d","Processing",,,,,,
+84,"d","Arizona","(X)","(D)","(D)",-,"(D)","(D)"
+84,"d","California",494.00,"(D)","(D)",8914,"(D)","(D)"
+84,"d","",,,,,,
+84,"d","Other States 1/","(X)",646.00,639.00,-,5928,285
+84,"d","",,,,,,
+84,"d","United States",494.00,646.00,639.00,8914,5928,285
+84,"c",""
+84,"f","-  Represents zero."
+84,"f","(D)  Withheld to avoid disclosing data for individual operations."
+84,"f","(X)  Not applicable."
+84,"f","1/ Includes data withheld above."

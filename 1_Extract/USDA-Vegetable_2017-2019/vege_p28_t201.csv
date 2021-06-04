@@ -1,0 +1,42 @@
+201,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+201,"t","Cabbage for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+201,"h","","","","","","",""
+201,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+201,"h","State","","","","","",""
+201,"h","","2017","2018","2019","2017","2018","2019"
+201,"h","","","","","","",""
+201,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+201,"d","Arizona",3300,3300,"(D)",3300,3300,"(D)"
+201,"d","California",14900,14700,14800,14500,14200,14500
+201,"d","Florida",9000,9300,8500,8600,8900,8200
+201,"d","Georgia",4100,4300,5000,3800,2900,4800
+201,"d","Michigan",4000,3800,4600,3900,3700,4500
+201,"d","New York",13200,11000,12000,12700,10100,11700
+201,"d","North Carolina 1/",2800,3000,"(NA)",2700,2800,"(NA)"
+201,"d","Texas",6400,5500,"(D)",6000,5000,"(D)"
+201,"d","Wisconsin",5200,3400,5300,5100,3300,5000
+201,"d","",,,,,,
+201,"d","Other States 2/",-,-,10900,-,-,10400
+201,"d","",,,,,,
+201,"d","United States",62900,58300,61100,60600,54200,59100
+201,"h","","","","","","",""
+201,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+201,"h","State","","","","","",""
+201,"h","","2017","2018","2019","2017","2018","2019"
+201,"h","","","","","","",""
+201,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+201,"d","Arizona",505.0,500.0,"(D)",1666.5,1650.0,"(D)"
+201,"d","California",380.0,340.0,410.0,5510.0,4828.0,5945.0
+201,"d","Florida",360.0,360.0,360.0,3096.0,3204.0,2952.0
+201,"d","Georgia",420.0,400.0,400.0,1596.0,1160.0,1920.0
+201,"d","Michigan",340.0,350.0,340.0,1326.0,1295.0,1530.0
+201,"d","New York",415.0,390.0,380.0,5270.5,3939.0,4446.0
+201,"d","North Carolina 1/",280.0,230.0,"(NA)",756.0,644.0,"(NA)"
+201,"d","Texas",300.0,270.0,"(D)",1800.0,1350.0,"(D)"
+201,"d","Wisconsin",550.0,405.0,265.0,2805.0,1336.5,1325.0
+201,"d","",,,,,,
+201,"d","Other States 2/","(X)","(X)",345.0,-,-,3588.0
+201,"d","",,,,,,
+201,"d","United States",393.2,358.1,367.3,23826.0,19406.5,21706.0
+201,"c",""
+201,"c","See footnote(s) at end of table.","--continued"

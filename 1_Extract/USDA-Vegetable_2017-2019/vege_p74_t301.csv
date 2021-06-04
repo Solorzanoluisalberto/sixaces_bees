@@ -1,0 +1,61 @@
+301,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+301,"t","Squash for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+301,"h","","","","","","",""
+301,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+301,"h","State","","","","","",""
+301,"h","","2017","2018","2019","2017","2018","2019"
+301,"h","","","","","","",""
+301,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+301,"d","California",7800,6900,7400,7700,6700,7300
+301,"d","Florida",7800,"(D)",7900,7500,"(D)",7700
+301,"d","Georgia",3300,"(D)",3800,3300,"(D)",3700
+301,"d","Michigan",9300,9000,8900,9200,8700,8600
+301,"d","New Jersey",3500,4100,3500,3300,3500,3200
+301,"d","New York",5600,5200,5400,5400,4900,5200
+301,"d","North Carolina",3000,3800,4600,2800,3500,4400
+301,"d","Oregon",5100,4300,3500,5000,4300,3400
+301,"d","Texas 1/",1900,1900,"(NA)",1700,1500,"(NA)"
+301,"d","",,,,,,
+301,"d","Other States 2/",-,12200,-,-,11700,-
+301,"d","",,,,,,
+301,"d","United States",47300,47400,45000,45900,44800,43500
+301,"h","","","","","","",""
+301,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+301,"h","State","","","","","",""
+301,"h","","2017","2018","2019","2017","2018","2019"
+301,"h","","","","","","",""
+301,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+301,"d","California",170.0,155.0,200.0,1309.0,1038.5,1460.0
+301,"d","Florida",130.0,"(D)",105.0,975.0,"(D)",808.5
+301,"d","Georgia",155.0,"(D)",120.0,511.5,"(D)",444.0
+301,"d","Michigan",230.0,220.0,200.0,2116.0,1914.0,1720.0
+301,"d","New Jersey",110.0,93.0,90.0,363.0,325.5,288.0
+301,"d","New York",150.0,165.0,140.0,810.0,808.5,728.0
+301,"d","North Carolina",97.0,175.0,130.0,271.6,612.5,572.0
+301,"d","Oregon",300.0,310.0,325.0,1500.0,1333.0,1105.0
+301,"d","Texas 1/",90.0,59.0,"(NA)",153.0,88.5,"(NA)"
+301,"d","",,,,,,
+301,"d","Other States 2/","(X)",109.0,"(X)",-,1272.0,-
+301,"d","",,,,,,
+301,"d","United States",174.5,165.0,163.8,8009.1,7392.5,7125.5
+301,"h","","","","","","",""
+301,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+301,"h","State","","","","","",""
+301,"h","","2017","2018","2019","2017","2018","2019"
+301,"h","","","","","","",""
+301,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+301,"d","California",20.9,69.6,4.4,1288.1,968.9,1455.6
+301,"d","Florida",4.9,"(D)",-,970.1,"(D)",808.5
+301,"d","Georgia",5.1,"(D)",20.0,506.4,"(D)",424.0
+301,"d","Michigan",-,30.6,34.4,2116.0,1883.4,1685.6
+301,"d","New Jersey",0.4,18.2,29.4,362.6,307.3,258.6
+301,"d","New York",7.3,3.2,31.3,802.7,805.3,696.7
+301,"d","North Carolina",0.5,1.2,10.3,271.1,611.3,561.7
+301,"d","Oregon",-,-,3.3,1500.0,1333.0,1101.7
+301,"d","Texas 1/",-,0.3,"(NA)",153.0,88.2,"(NA)"
+301,"d","",,,,,,
+301,"d","Other States 2/",-,19.1,-,-,1252.9,-
+301,"d","",,,,,,
+301,"d","United States",39.1,142.2,133.1,7970.0,7250.3,6992.4
+301,"c",""
+301,"c","See footnote(s) at end of table.","--continued"

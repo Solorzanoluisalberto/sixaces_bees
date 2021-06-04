@@ -1,0 +1,61 @@
+208,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+208,"t","Cantaloupes for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+208,"h","","","","","","",""
+208,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+208,"h","State","","","","","",""
+208,"h","","2017","2018","2019","2017","2018","2019"
+208,"h","","","","","","",""
+208,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+208,"d","Arizona",16000,16400,14000,15700,16300,14000
+208,"d","California",35000,32000,33000,34300,31500,32800
+208,"d","Florida",2300,"(D)",2400,2200,"(D)",2300
+208,"d","Georgia",4600,"(D)",4100,4500,"(D)",4000
+208,"d","Indiana 1/",1600,1800,"(NA)",1500,1700,"(NA)"
+208,"d","North Carolina 1/",1300,1300,"(NA)",1200,1200,"(NA)"
+208,"d","Pennsylvania 1/",1000,1000,"(NA)",950,900,"(NA)"
+208,"d","South Carolina 1/",1000,"(D)","(NA)",900,"(D)","(NA)"
+208,"d","Texas 1/",2100,2100,"(NA)",2000,2000,"(NA)"
+208,"d","",,,,,,
+208,"d","Other States 2/",-,7700,-,-,7100,-
+208,"d","",,,,,,
+208,"d","United States",64900,62300,53500,63250,60700,53100
+208,"h","","","","","","",""
+208,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+208,"h","State","","","","","",""
+208,"h","","2017","2018","2019","2017","2018","2019"
+208,"h","","","","","","",""
+208,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+208,"d","Arizona",225.0,230.0,225.0,3532.5,3749.0,3150.0
+208,"d","California",275.0,265.0,250.0,9432.5,8347.5,8200.0
+208,"d","Florida",260.0,"(D)",210.0,572.0,"(D)",483.0
+208,"d","Georgia",140.0,"(D)",220.0,630.0,"(D)",880.0
+208,"d","Indiana 1/",230.0,225.0,"(NA)",345.0,382.5,"(NA)"
+208,"d","North Carolina 1/",205.0,255.0,"(NA)",246.0,306.0,"(NA)"
+208,"d","Pennsylvania 1/",145.0,120.0,"(NA)",137.8,108.0,"(NA)"
+208,"d","South Carolina 1/",310.0,"(D)","(NA)",279.0,"(D)","(NA)"
+208,"d","Texas 1/",110.0,110.0,"(NA)",220.0,220.0,"(NA)"
+208,"d","",,,,,,
+208,"d","Other States 2/","(X)",210.0,"(X)",-,1494.0,-
+208,"d","",,,,,,
+208,"d","United States",243.4,240.6,239.4,15394.8,14607.0,12713.0
+208,"h","","","","","","",""
+208,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+208,"h","State","","","","","",""
+208,"h","","2017","2018","2019","2017","2018","2019"
+208,"h","","","","","","",""
+208,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+208,"d","Arizona",-,-,-,3532.5,3749.0,3150.0
+208,"d","California",-,-,-,9432.5,8347.5,8200.0
+208,"d","Florida",-,"(D)",1.9,572.0,"(D)",481.1
+208,"d","Georgia",-,"(D)",5.3,630.0,"(D)",874.7
+208,"d","Indiana 1/",-,-,"(NA)",345.0,382.5,"(NA)"
+208,"d","North Carolina 1/",-,3.1,"(NA)",246.0,302.9,"(NA)"
+208,"d","Pennsylvania 1/",2.8,1.1,"(NA)",135.0,106.9,"(NA)"
+208,"d","South Carolina 1/",-,"(D)","(NA)",279.0,"(D)","(NA)"
+208,"d","Texas 1/",-,-,"(NA)",220.0,220.0,"(NA)"
+208,"d","",,,,,,
+208,"d","Other States 2/",-,-,-,-,1494.0,-
+208,"d","",,,,,,
+208,"d","United States",2.8,4.2,7.2,15392.0,14602.8,12705.8
+208,"c",""
+208,"c","See footnote(s) at end of table.","--continued"

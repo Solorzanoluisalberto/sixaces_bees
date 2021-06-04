@@ -1,0 +1,58 @@
+213,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+213,"t","Carrots for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+213,"h","","","","","","",""
+213,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+213,"h","State","","","","","",""
+213,"h","","2017","2018","2019","2017","2018","2019"
+213,"h","","","","","","",""
+213,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+213,"d","California",62500,64800,70200,58500,64300,69900
+213,"d","Michigan 1/",4100,4200,"(NA)",4000,4000,"(NA)"
+213,"d","Texas 1/",2000,1700,"(NA)",1900,1600,"(NA)"
+213,"d","Washington",7100,6000,6500,7000,5900,6400
+213,"d","Wisconsin",4500,4100,3600,4500,4000,3300
+213,"d","",,,,,,
+213,"d","United States",80200,80800,80300,75900,79800,79600
+213,"h","","","","","","",""
+213,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+213,"h","State","","","","","",""
+213,"h","","2017","2018","2019","2017","2018","2019"
+213,"h","","","","","","",""
+213,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+213,"d","California",370.0,600.0,620.0,21645.0,38580.0,43338.0
+213,"d","Michigan 1/",370.0,380.0,"(NA)",1480.0,1520.0,"(NA)"
+213,"d","Texas 1/",240.0,250.0,"(NA)",456.0,400.0,"(NA)"
+213,"d","Washington",700.0,620.0,760.0,4900.0,3658.0,4864.0
+213,"d","Wisconsin",560.0,430.0,485.0,2520.0,1720.0,1600.5
+213,"d","",,,,,,
+213,"d","United States",408.4,574.9,625.7,31001.0,45878.0,49802.5
+213,"h","","","","","","",""
+213,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+213,"h","State","","","","","",""
+213,"h","","2017","2018","2019","2017","2018","2019"
+213,"h","","","","","","",""
+213,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+213,"d","California",-,115.7,-,21645.0,38464.3,43338.0
+213,"d","Michigan 1/",-,-,"(NA)",1480.0,1520.0,"(NA)"
+213,"d","Texas 1/",-,-,"(NA)",456.0,400.0,"(NA)"
+213,"d","Washington",-,-,-,4900.0,3658.0,4864.0
+213,"d","Wisconsin",5.0,5.2,-,2515.0,1714.8,1600.5
+213,"d","",,,,,,
+213,"d","United States",5.0,120.9,-,30996.0,45757.1,49802.5
+213,"h","","","","","","",""
+213,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+213,"h","State","","","","","",""
+213,"h","","2017","2018","2019","2017","2018","2019"
+213,"h","","","","","","",""
+213,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+213,"d","California",29.40,17.90,19.10,635624,687631,827126
+213,"d","Michigan 1/",10.10,9.51,"(NA)",14948,14456,"(NA)"
+213,"d","Texas 1/",10.50,9.46,"(NA)",4771,3785,"(NA)"
+213,"d","Washington",6.52,5.46,6.05,31966,19982,29415
+213,"d","Wisconsin",3.51,4.14,4.36,8820,7092,6977
+213,"d","",,,,,,
+213,"d","United States",22.50,16.00,17.30,696129,732946,863518
+213,"c",""
+213,"f","-  Represents zero."
+213,"f","(NA)  Not available."
+213,"f","1/ Estimates discontinued in 2019."

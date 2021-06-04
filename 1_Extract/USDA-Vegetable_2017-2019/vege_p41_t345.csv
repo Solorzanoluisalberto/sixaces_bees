@@ -1,0 +1,59 @@
+345,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+345,"t","Celery Production, Price, and Value by Utilization – States and United States: 2017-2019"
+345,"h","","","",""
+345,"h","","Utilized production","Utilized production","Utilized production"
+345,"h","Utilization and State","","",""
+345,"h","","2017","2018","2019"
+345,"h","","","",""
+345,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+345,"d","Fresh market",,,
+345,"d","California","(D)","(D)","(D)"
+345,"d","Michigan 1/","(D)","(D)","(NA)"
+345,"d","",,,
+345,"d","Other States 2/",15381.8,16272.7,"(D)"
+345,"d","",,,
+345,"d","United States",15381.8,16272.7,"(D)"
+345,"h","","","",""
+345,"h","","Utilized production","Utilized production","Utilized production"
+345,"h","Utilization and State","","",""
+345,"h","","2017","2018","2019"
+345,"h","","","",""
+345,"u","","(tons)","(tons)","(tons)"
+345,"d","Processing",,,
+345,"d","California","(D)","(D)","(D)"
+345,"d","Michigan 1/","(D)","(D)","(NA)"
+345,"d","",,,
+345,"d","Other States 2/",33136,61344,"(D)"
+345,"d","",,,
+345,"d","United States",33136,61344,"(D)"
+345,"h","","","","","","",""
+345,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+345,"h","Utilization and State","","","","","",""
+345,"h","","2017","2018","2019","2017","2018","2019"
+345,"h","","","","","","",""
+345,"u","","(dollars per cwt)","(dollars per cwt)","(dollars per cwt)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+345,"d","Fresh market",,,,,,
+345,"d","California","(D)","(D)","(D)","(D)","(D)","(D)"
+345,"d","Michigan 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+345,"d","",,,,,,
+345,"d","Other States 2/",20.50,25.90,"(D)",315484,421967,"(D)"
+345,"d","",,,,,,
+345,"d","United States",20.50,25.90,"(D)",315484,421967,"(D)"
+345,"h","","","","","","",""
+345,"h","","Price per unit","Price per unit","Price per unit","Value of utilized production","Value of utilized production","Value of utilized production"
+345,"h","Utilization and State","","","","","",""
+345,"h","","2017","2018","2019","2017","2018","2019"
+345,"h","","","","","","",""
+345,"u","","(dollars per ton)","(dollars per ton)","(dollars per ton)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+345,"d","Processing",,,,,,
+345,"d","California","(D)","(D)","(D)","(D)","(D)","(D)"
+345,"d","Michigan 1/","(D)","(D)","(NA)","(D)","(D)","(NA)"
+345,"d","",,,,,,
+345,"d","Other States 2/",198.00,242.00,"(D)",6563,14851,"(D)"
+345,"d","",,,,,,
+345,"d","United States",198.00,242.00,"(D)",6563,14851,"(D)"
+345,"c",""
+345,"f","(D)  Withheld to avoid disclosing data for individual operations."
+345,"f","(NA)  Not available."
+345,"f","1/ Estimates discontinued in 2019."
+345,"f","2/ Includes data withheld above."

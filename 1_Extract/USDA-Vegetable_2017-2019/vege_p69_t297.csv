@@ -1,0 +1,63 @@
+297,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+297,"t","Pumpkins for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019 (continued)"
+297,"h","","","","","","",""
+297,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+297,"h","State","","","","","",""
+297,"h","","2017","2018","2019","2017","2018","2019"
+297,"h","","","","","","",""
+297,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+297,"d","California",1.5,8.1,7.2,1450.5,1339.4,1191.3
+297,"d","Illinois",135.2,31.0,4.2,6302.8,5139.0,4192.3
+297,"d","Indiana",1.0,12.6,3.7,959.0,1252.4,1221.3
+297,"d","Michigan",1.5,15.4,3.2,758.0,1010.6,806.8
+297,"d","Minnesota 1/",22.7,7.7,"(NA)",139.3,419.3,"(NA)"
+297,"d","New Jersey 1/",1.4,1.7,"(NA)",198.1,108.8,"(NA)"
+297,"d","New York",17.6,32.3,30.0,570.4,435.1,380.4
+297,"d","North Carolina",6.2,2.5,10.0,560.8,250.5,703.0
+297,"d","Ohio",8.3,14.0,3.1,586.7,652.0,434.4
+297,"d","Oregon",22.5,29.7,29.9,427.5,645.3,568.6
+297,"d","",,,,,,
+297,"d","Pennsylvania",28.5,34.7,14.6,1110.0,620.8,646.9
+297,"d","Tennessee 1/",13.0,13.4,"(NA)",111.6,103.4,"(NA)"
+297,"d","Texas",13.2,1.6,"(D)",864.3,1615.4,"(D)"
+297,"d","Virginia",1.4,41.6,20.3,718.6,1024.4,903.7
+297,"d","Washington",21.5,3.9,42.4,446.5,296.1,399.6
+297,"d","Wisconsin",23.5,29.5,"(D)",396.5,214.7,"(D)"
+297,"d","",,,,,,
+297,"d","Other States 2/",-,-,61.2,-,-,1772.8
+297,"d","",,,,,,
+297,"d","United States",319.0,279.7,229.8,15600.6,15127.2,13221.1
+297,"h","","","","","","",""
+297,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+297,"h","State","","","","","",""
+297,"h","","2017","2018","2019","2017","2018","2019"
+297,"h","","","","","","",""
+297,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+297,"d","California",14.30,20.60,19.10,20742,27592,22754
+297,"d","Illinois",3.87,2.68,4.08,24421,13751,17085
+297,"d","Indiana",19.20,13.60,13.90,18457,16971,16982
+297,"d","Michigan",11.00,14.80,16.00,8314,14947,12909
+297,"d","Minnesota 1/",26.50,29.50,"(NA)",3691,12369,"(NA)"
+297,"d","New Jersey 1/",30.80,38.40,"(NA)",6101,4178,"(NA)"
+297,"d","New York",19.50,18.50,22.70,11123,8037,8635
+297,"d","North Carolina",18.60,26.40,15.60,10437,6609,10991
+297,"d","Ohio",13.60,16.90,22.80,7968,11024,9911
+297,"d","Oregon",15.20,15.20,9.05,6514,9781,5147
+297,"d","",,,,,,
+297,"d","Pennsylvania",17.60,22.30,25.90,19503,13852,16777
+297,"d","Tennessee 1/",19.10,21.90,"(NA)",2132,2264,"(NA)"
+297,"d","Texas",26.80,14.90,"(D)",23163,24069,"(D)"
+297,"d","Virginia",14.40,15.00,18.20,10348,15366,16427
+297,"d","Washington",28.20,40.00,38.90,12604,11844,15544
+297,"d","Wisconsin",27.80,13.00,"(D)",11023,2791,"(D)"
+297,"d","",,,,,,
+297,"d","Other States 2/","(X)","(X)",15.20,-,-,27028
+297,"d","",,,,,,
+297,"d","United States",12.60,12.90,13.60,196541,195445,180190
+297,"c",""
+297,"f","-  Represents zero."
+297,"f","(D)  Withheld to avoid disclosing data for individual operations."
+297,"f","(NA)  Not available."
+297,"f","(X)  Not applicable."
+297,"f","1/ Estimates discontinued in 2019."
+297,"f","2/ Includes data withheld above."

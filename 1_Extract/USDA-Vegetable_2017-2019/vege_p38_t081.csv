@@ -1,0 +1,44 @@
+81,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+81,"t","Cauliflower for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+81,"h","","","","","","",""
+81,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+81,"h","State","","","","","",""
+81,"h","","2017","2018","2019","2017","2018","2019"
+81,"h","","","","","","",""
+81,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+81,"d","Arizona",5800,6100,6700,5700,6100,6700
+81,"d","California",40900,39000,39000,40100,38800,38800
+81,"d","",,,,,,
+81,"d","United States",46700,45100,45700,45800,44900,45500
+81,"h","","","","","","",""
+81,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+81,"h","State","","","","","",""
+81,"h","","2017","2018","2019","2017","2018","2019"
+81,"h","","","","","","",""
+81,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+81,"d","Arizona",185.0,190.0,170.0,1054.5,1159.0,1139.0
+81,"d","California",200.0,215.0,230.0,8020.0,8342.0,8924.0
+81,"d","",,,,,,
+81,"d","United States",198.1,211.6,221.2,9074.5,9501.0,10063.0
+81,"h","","","","","","",""
+81,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+81,"h","State","","","","","",""
+81,"h","","2017","2018","2019","2017","2018","2019"
+81,"h","","","","","","",""
+81,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+81,"d","Arizona",-,-,-,1054.5,1159.0,1139.0
+81,"d","California",24.1,8.3,8.9,7995.9,8333.7,8915.1
+81,"d","",,,,,,
+81,"d","United States",24.1,8.3,8.9,9050.4,9492.7,10054.1
+81,"h","","","","","","",""
+81,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+81,"h","State","","","","","",""
+81,"h","","2017","2018","2019","2017","2018","2019"
+81,"h","","","","","","",""
+81,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+81,"d","Arizona",81.70,68.80,87.40,86153,79739,99549
+81,"d","California",41.20,42.60,41.10,329584,354752,366330
+81,"d","",,,,,,
+81,"d","United States",45.90,45.80,46.30,415737,434491,465879
+81,"c",""
+81,"f","-  Represents zero."

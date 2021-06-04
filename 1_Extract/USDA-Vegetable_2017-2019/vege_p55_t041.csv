@@ -1,0 +1,44 @@
+41,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+41,"t","Leaf Lettuce for Fresh Market Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019"
+41,"h","","","","","","",""
+41,"h","","Area planted","Area planted","Area planted","Area harvested","Area harvested","Area harvested"
+41,"h","State","","","","","",""
+41,"h","","2017","2018","2019","2017","2018","2019"
+41,"h","","","","","","",""
+41,"u","","(acres)","(acres)","(acres)","(acres)","(acres)","(acres)"
+41,"d","Arizona",9500,9800,9900,9400,9700,9800
+41,"d","California",58000,57000,48000,57800,56000,47500
+41,"d","",,,,,,
+41,"d","United States",67500,66800,57900,67200,65700,57300
+41,"h","","","","","","",""
+41,"h","","Yield per acre","Yield per acre","Yield per acre","Total production","Total production","Total production"
+41,"h","State","","","","","",""
+41,"h","","2017","2018","2019","2017","2018","2019"
+41,"h","","","","","","",""
+41,"u","","(cwt)","(cwt)","(cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+41,"d","Arizona",225.0,240.0,230.0,2115.0,2328.0,2254.0
+41,"d","California",200.0,150.0,215.0,11560.0,8400.0,10212.5
+41,"d","",,,,,,
+41,"d","United States",203.5,163.3,217.6,13675.0,10728.0,12466.5
+41,"h","","","","","","",""
+41,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+41,"h","State","","","","","",""
+41,"h","","2017","2018","2019","2017","2018","2019"
+41,"h","","","","","","",""
+41,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+41,"d","Arizona",-,-,-,2115.0,2328.0,2254.0
+41,"d","California",-,-,-,11560.0,8400.0,10212.5
+41,"d","",,,,,,
+41,"d","United States",-,-,-,13675.0,10728.0,12466.5
+41,"h","","","","","","",""
+41,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+41,"h","State","","","","","",""
+41,"h","","2017","2018","2019","2017","2018","2019"
+41,"h","","","","","","",""
+41,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+41,"d","Arizona",65.40,44.70,102.80,138321,104062,231711
+41,"d","California",60.10,53.80,41.00,694756,451920,418713
+41,"d","",,,,,,
+41,"d","United States",60.90,51.80,52.20,833077,555982,650424
+41,"c",""
+41,"f","-  Represents zero."

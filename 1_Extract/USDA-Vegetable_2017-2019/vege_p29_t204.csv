@@ -1,0 +1,47 @@
+204,"t","Vegetables 2019 Summary: Released February 13, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+204,"t","Cabbage for Fresh Market and Processing Area Planted and Harvested, Yield, Production, Price, and Value – States and United States: 2017-2019 (continued)"
+204,"h","","","","","","",""
+204,"h","","Harvested not sold","Harvested not sold","Harvested not sold","Utilized production","Utilized production","Utilized production"
+204,"h","State","","","","","",""
+204,"h","","2017","2018","2019","2017","2018","2019"
+204,"h","","","","","","",""
+204,"u","","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)","(1,000 cwt)"
+204,"d","Arizona",-,-,"(D)",1666.5,1650.0,"(D)"
+204,"d","California",-,-,-,5510.0,4828.0,5945.0
+204,"d","Florida",31.0,32.0,29.5,3065.0,3172.0,2922.5
+204,"d","Georgia",-,-,32.6,1596.0,1160.0,1887.4
+204,"d","Michigan",-,-,3.1,1326.0,1295.0,1526.9
+204,"d","New York",-,118.2,22.2,5270.5,3820.8,4423.8
+204,"d","North Carolina 1/",-,38.0,"(NA)",756.0,606.0,"(NA)"
+204,"d","Texas",-,-,"(D)",1800.0,1350.0,"(D)"
+204,"d","Wisconsin",-,-,-,2805.0,1336.5,1325.0
+204,"d","",,,,,,
+204,"d","Other States 2/",-,-,-,-,-,3588.0
+204,"d","",,,,,,
+204,"d","United States",31.0,188.2,87.4,23795.0,19218.3,21618.6
+204,"h","","","","","","",""
+204,"h","","Price per cwt","Price per cwt","Price per cwt","Value of utilized production","Value of utilized production","Value of utilized production"
+204,"h","State","","","","","",""
+204,"h","","2017","2018","2019","2017","2018","2019"
+204,"h","","","","","","",""
+204,"u","","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+204,"d","Arizona",17.50,20.30,"(D)",29164,33495,"(D)"
+204,"d","California",28.80,37.60,35.70,158625,181533,212237
+204,"d","Florida",15.50,19.80,20.00,47508,62806,58394
+204,"d","Georgia",12.90,12.80,16.30,20583,14845,30723
+204,"d","Michigan",11.00,11.10,12.20,14619,14327,18684
+204,"d","New York",14.10,13.80,18.60,74434,52862,82430
+204,"d","North Carolina 1/",15.10,16.70,"(NA)",11416,10120,"(NA)"
+204,"d","Texas",17.80,20.30,"(D)",32040,27405,"(D)"
+204,"d","Wisconsin",15.30,8.00,11.80,42918,10698,15598
+204,"d","",,,,,,
+204,"d","Other States 2/","(X)","(X)",28.10,-,-,100854
+204,"d","",,,,,,
+204,"d","United States",18.10,21.20,24.00,431307,408091,518920
+204,"c",""
+204,"f","-  Represents zero."
+204,"f","(D)  Withheld to avoid disclosing data for individual operations."
+204,"f","(NA)  Not available."
+204,"f","(X)  Not applicable."
+204,"f","1/ Estimates discontinued in 2019."
+204,"f","2/ Includes data withheld above."
