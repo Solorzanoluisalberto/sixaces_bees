@@ -55,7 +55,7 @@ am4core.ready(function () {
     heatLegend.width = am4core.percent(20);
     heatLegend.marginRight = am4core.percent(4);
     heatLegend.minValue = 0;
-    heatLegend.maxValue = 40000;
+    heatLegend.maxValue = 35000;
 
     // Set up custom heat map legend labels using axis ranges
     var minRange = heatLegend.valueAxis.axisRanges.create();
@@ -63,7 +63,7 @@ am4core.ready(function () {
     minRange.label.text = "1000 lbs or lest";
     var maxRange = heatLegend.valueAxis.axisRanges.create();
     maxRange.value = heatLegend.maxValue;
-    maxRange.label.text = "40,000 + Mlbs";
+    maxRange.label.text = "35,000 + Mlbs";
 
     // Blank out internal heat legend value axis labels
     heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
